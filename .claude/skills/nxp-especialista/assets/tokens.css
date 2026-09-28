@@ -1,0 +1,42 @@
+/* Nerd Experience 2027 — tokens de marca (amostrados do brand board do Canva DAHF08WuL5g) */
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@400;500;600;700&family=Orbitron:wght@700;900&family=Lilita+One&display=swap');
+
+:root {
+  /* Paleta principal */
+  --nxp-void: #291833;     /* Berinjela Portal — fundo padrão */
+  --nxp-deep: #49236C;     /* Roxo Profundo */
+  --nxp-violet: #BD00FD;   /* Violeta Neon */
+  --nxp-magenta: #DA05E2;  /* Magenta Elétrico */
+  --nxp-rose: #D352A6;     /* Rosa Portal */
+  --nxp-cyan: #11FAFE;     /* Ciano Holograma */
+  --nxp-green: #01FF9F;    /* Verde XP */
+  --nxp-yellow: #F7F080;   /* Amarelo Loot */
+  --nxp-light: #F4F4F4;    /* Branco Nebulosa */
+  --nxp-logo: #F2ECE1;     /* Off-white do logo */
+  --nxp-blue: #011EFD;     /* Azul elétrico (apoio) */
+
+  /* Degradês oficiais */
+  --nxp-grad-1: linear-gradient(180deg, #AC15F4, #0FEBA6);
+  --nxp-grad-2: linear-gradient(180deg, #562872, #CD50A5);
+  --nxp-grad-3: linear-gradient(180deg, #0FFBF6, #02FEA6);
+  --nxp-grad-4: linear-gradient(180deg, #57346E, #E1D87A);
+  --nxp-grad-5: linear-gradient(180deg, #CC1AE9, #21E7FD);
+  --nxp-grad-6: linear-gradient(180deg, #E4F18B, #23FAF4);
+  --nxp-grad-7: linear-gradient(180deg, #D618D4, #F0D984);
+  --nxp-grad-neon: linear-gradient(135deg, #BD00FD 0%, #11FAFE 60%, #01FF9F 100%);
+
+  /* Mundos do NerdVerso (aproximados) */
+  --nxp-lotus: #F9254B;
+  --nxp-pixel: #1681CF;
+  --nxp-eldarion: #EAA107;
+  --nxp-nexos: #836CF2;
+
+  /* Tipografia (Genius Techo e Deli vêm do Canva; fallbacks web abaixo) */
+  --nxp-font-display: 'Genius Techo', 'Orbitron', sans-serif;
+  --nxp-font-impact: 'Deli', 'Lilita One', sans-serif;
+  --nxp-font-body: 'Lexend Deca', 'Lexend', system-ui, sans-serif;
+
+  /* Formas */
+  --nxp-radius-pill: 999px;
+  --nxp-radius-photo: 40px;
+}

@@ -1,0 +1,36 @@
+{
+  "fonte": "Canva DAHF08WuL5g, pagina 2 (brand board), amostrado em 2026-09-28",
+  "principal": {
+    "void": "#291833",
+    "deep": "#49236C",
+    "violet": "#BD00FD",
+    "magenta": "#DA05E2",
+    "rose": "#D352A6",
+    "cyan": "#11FAFE",
+    "green": "#01FF9F",
+    "yellow": "#F7F080",
+    "light": "#F4F4F4",
+    "logo_offwhite": "#F2ECE1",
+    "blue_apoio": "#011EFD"
+  },
+  "degrades": [
+    ["#AC15F4", "#0FEBA6"],
+    ["#562872", "#CD50A5"],
+    ["#0FFBF6", "#02FEA6"],
+    ["#57346E", "#E1D87A"],
+    ["#CC1AE9", "#21E7FD"],
+    ["#E4F18B", "#23FAF4"],
+    ["#D618D4", "#F0D984"]
+  ],
+  "mundos_aproximado": {
+    "lotus": "#F9254B",
+    "pixel": "#1681CF",
+    "eldarion": "#EAA107",
+    "nexos": "#836CF2"
+  },
+  "fontes": {
+    "display": "Genius Techo",
+    "impacto": "Deli",
+    "texto": "Lexend Deca"
+  }
+}

@@ -20,3 +20,7 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+
+## Especialista em artes NXP (Claude)
+
+Protocolo de identidade visual, social media, copy e vídeo do Nerd Experience 2027 / NerdVerso, em forma de skills do Claude. Comece por [`nxp-brand/README.md`](nxp-brand/README.md).
