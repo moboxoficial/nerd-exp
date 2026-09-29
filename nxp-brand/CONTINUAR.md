@@ -24,7 +24,7 @@ Documento de passagem: onde as coisas estão e qual é o próximo passo. Cole no
 - Limites da API: no máximo 100 páginas por design; `merge-designs` aceita 1 operação por chamada; mediaId do mestre não funciona em outro design (use o método de extração).
 
 ## Próximo passo
-**Novembro**: aba NOVEMBRO da planilha, cerca de 68 peças de feed/carrossel (ver `LISTA_posts-feed-planilha.md`). Mesmo processo de outubro:
+**Novembro**: 104 peças de feed/carrossel/card, já mapeadas em `entregas/MAPA_novembro_feed.md` (fonte: aba NOVEMBRO, que é o calendário oficial; ignore as linhas de novembro da aba OUTUBRO). Mesmo processo de outubro:
 1. Mapear (`entregas/MAPA_novembro_feed.md`): o que já tem arte (link canva.link na planilha), o que é duplicado e o que falta produzir.
 2. Produzir em lotes por tema (subagente `nxp-diretor-de-arte`). Cada lote entrega só os temporários, os PNGs e as LEGENDAs, junto com os IDs.
 3. O agente principal consolida no volume ativo (1 `insert_pages` por chamada, em ordem cronológica), escreve o índice nas notas, manda os temporários pra lixeira e atualiza o índice na skill e as LEGENDAs.
