@@ -3,7 +3,7 @@
 - **Planilha**: nº67 · 28/10 · 13h · @nerdexperience · GUIA DO EXPLORADOR · "Manual para sobreviver a um evento inteiro fantasiado sem transformar seu cosplay em instrumento de tortura" · Carrossel · CTA "Salva para fevereiro."
 - **Nome padrão**: NXP · Carrossel · Guia do Explorador · Sobreviver fantasiado · v1
 - **Formato**: carrossel 6 slides, 1080×1350 (`slide_01.png` … `slide_06.png`)
-- **Canva**: temporário `DAHWinw5ZNE` ([editar](https://www.canva.com/d/mdGEh2jtnTv46ho)) — será consolidado no arquivo único `DAHWihdcqtc`.
+- **Canva**: `NXP 2027 — Posts Instagram · vol. 2` (`DAHWizfK3FI`), **pág. 40–45**. [Editar](https://www.canva.com/d/HDZ3O72Z_bSSGSJ)
 
 | Slide | Conteúdo |
 |---|---|

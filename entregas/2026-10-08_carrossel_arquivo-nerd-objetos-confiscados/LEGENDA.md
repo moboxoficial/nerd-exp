@@ -1,10 +1,10 @@
 # Carrossel: "ARQUIVO NERD #030: três objetos confiscados"
+- **Canva**: `NXP 2027 — Posts Instagram · vol. 1` (`DAHWihdcqtc`), **pág. 35**. [Editar](https://www.canva.com/d/3YOq9S2tH0aBx7d)
 
 - **Planilha**: 08/10 · 13h · @nerdverso · ARQUIVO NERD · Carrossel · CTA: "Qual você investigaria primeiro?" · **Repost em 18/10 às 21h** (LORE / ARQUIVO NERD, palavra-chave ARQUIVO)
 - **Formato**: carrossel com 4 slides em 1080×1350, panorâmico (4320×1350), base na pág. 300 do mestre (N.E.R.D.)
 - **Série ARQUIVO NERD** (padrão novo): pill "ARQUIVO NERD", código "LOG #0xx", pills de status e carimbo roxo `#BD00FD` com moldura (aqui, CONFISCADO). Serve de base para o nº50 e os próximos.
 
-**Canva**: temporário ID `DAHWigI-TPc` — será consolidado no arquivo único `NXP 2027 — Posts Instagram (arquivo único)` (`DAHWihdcqtc`). Título: `NERDVERSO · Carrossel · Arquivo Nerd · Objetos confiscados · v1`.
 
 | Slide | Texto |
 |---|---|

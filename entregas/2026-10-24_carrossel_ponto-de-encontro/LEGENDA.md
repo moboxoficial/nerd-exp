@@ -3,7 +3,7 @@
 - **Planilha**: nº61 · 24/10 · 13h · @nerdexperience + @nerdverso (collab) · GUIA DO EXPLORADOR · "Como definir ponto de encontro caso o grupo se separe no evento" · Carrossel · CTA "Salva antes de precisar."
 - **Nome padrão**: NXP · Carrossel · Guia do Explorador · Ponto de encontro (collab NerdVerso) · v1
 - **Formato**: carrossel 6 slides, 1080×1350 (`slide_01.png` … `slide_06.png`)
-- **Canva**: temporário `DAHWisHCIBs` ([editar](https://www.canva.com/d/-thY44Ep0xN07y0)) — será consolidado no arquivo único `DAHWihdcqtc`.
+- **Canva**: `NXP 2027 — Posts Instagram · vol. 2` (`DAHWizfK3FI`), **pág. 21–26**. [Editar](https://www.canva.com/d/HDZ3O72Z_bSSGSJ)
 
 | Slide | Conteúdo |
 |---|---|

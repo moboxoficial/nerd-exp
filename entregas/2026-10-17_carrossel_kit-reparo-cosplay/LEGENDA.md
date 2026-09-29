@@ -2,7 +2,7 @@
 
 - **Planilha**: nº51 · 17/10 · 13h · @nerdexperience · GUIA DO EXPLORADOR · Mini kit de reparo cosplay · Carrossel
 - **Formato**: carrossel 7 slides, 1080×1350 (`slide_01.png` … `slide_07.png`)
-- **Canva**: temporário `DAHWitGvm50` ("NXP · Carrossel · Guia do Explorador · Mini kit de reparo cosplay · v1") — será consolidado no arquivo único `DAHWihdcqtc`
+- **Canva**: `NXP 2027 — Posts Instagram · vol. 1` (`DAHWihdcqtc`), **pág. 88–94**. [Editar](https://www.canva.com/d/3YOq9S2tH0aBx7d)
 
 | Slide | Conteúdo |
 |---|---|

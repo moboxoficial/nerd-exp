@@ -3,7 +3,7 @@
 - **Planilha**: nº55 · 19/10 · 13h · @nerdexperience · GUIA DO EXPLORADOR · "Como planejar seu dia quando várias atrações acontecerem simultaneamente" · Carrossel · CTA "Salva para quando a grade sair."
 - **Nome padrão**: NXP · Carrossel · Guia do Explorador · Atrações simultâneas · v1
 - **Formato**: carrossel 6 slides, 1080×1350 (`slide_01.png` … `slide_06.png`)
-- **Canva**: temporário `DAHWip-GUf0` ([editar](https://www.canva.com/d/0CTZNHR8pe4Bh8q)) — será consolidado no arquivo único `DAHWihdcqtc`. Notas da pág. 1 já trazem o nome padrão.
+- **Canva**: `NXP 2027 — Posts Instagram · vol. 2` (`DAHWizfK3FI`), **pág. 1–6**. [Editar](https://www.canva.com/d/HDZ3O72Z_bSSGSJ)
 
 | Slide | Conteúdo |
 |---|---|

@@ -3,7 +3,7 @@
 - **Nome padrão**: NXP · Carrossel · Quiz de Mundo · Em qual mundo você viveria · v1
 - **Planilha**: nº28 · 07/10 · 17h · collab @nerdexperience + @nerdverso · QUIZ DE MUNDO · CTA "Comenta seu mundo"
 - **Formato**: carrossel com 6 slides de 1080×1350, a partir de uma panorâmica de 5400×1350 mais 1 página de 1080×1350 (`slide_01.png` … `slide_06.png`)
-- **Canva**: design temporário `DAHWipwufPY`, que será consolidado no arquivo único `DAHWihdcqtc`. Modelos usados do mestre: pág. 251 (Qual explorador do NerdVerso você é?) e pág. 270 (fechamento).
+- **Canva**: `NXP 2027 — Posts Instagram · vol. 1` (`DAHWihdcqtc`), **pág. 30–31**. [Editar](https://www.canva.com/d/3YOq9S2tH0aBx7d)
 
 | Slide | Conteúdo |
 |---|---|

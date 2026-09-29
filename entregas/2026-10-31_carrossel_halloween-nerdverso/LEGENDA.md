@@ -3,7 +3,7 @@
 - **Planilha**: nº69 · 31/10 · 13h · @nerdexperience · GUIA DO EXPLORADOR · "Manual de sobrevivência do explorador: 5 regras divertidas para sobreviver ao Halloween no NerdVerso" · Carrossel · CTA "Envia para seu grupo de sobrevivência."
 - **Nome padrão**: NXP · Carrossel · Guia do Explorador · Halloween no NerdVerso · v1
 - **Formato**: carrossel 7 slides, 1080×1350 (`slide_01.png` … `slide_07.png`)
-- **Canva**: temporário `DAHWiqXnXq4` ([editar](https://www.canva.com/d/FAOtcq9LUf4T5cD)) — será consolidado no arquivo único `DAHWihdcqtc`.
+- **Canva**: `NXP 2027 — Posts Instagram · vol. 2` (`DAHWizfK3FI`), **pág. 52–58**. [Editar](https://www.canva.com/d/HDZ3O72Z_bSSGSJ)
 
 | Slide | Conteúdo |
 |---|---|

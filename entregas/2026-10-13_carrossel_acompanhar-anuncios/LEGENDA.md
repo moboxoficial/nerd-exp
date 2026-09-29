@@ -2,7 +2,7 @@
 
 - **Planilha**: nº43 · 13/10 · 14h · @nerdexperience · INFO/SERVIÇO · Acompanhar anúncios · Carrossel
 - **Formato**: carrossel 6 slides, 1080×1350 (`slide_01.png` … `slide_06.png`)
-- **Canva**: temporário `DAHWirkxqF0` ("NXP · Carrossel · Serviço · Como acompanhar os anúncios · v1") — será consolidado no arquivo único `DAHWihdcqtc`
+- **Canva**: `NXP 2027 — Posts Instagram · vol. 1` (`DAHWihdcqtc`), **pág. 73–78**. [Editar](https://www.canva.com/d/3YOq9S2tH0aBx7d)
 - **Série**: mesmo modelo do Guia do Explorador, com selo "NXP SERVIÇO"
 
 | Slide | Conteúdo |

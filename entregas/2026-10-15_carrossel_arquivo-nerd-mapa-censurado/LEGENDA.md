@@ -1,10 +1,10 @@
 # Carrossel: "ARQUIVO NERD #050: o mapa com uma área censurada"
+- **Canva**: `NXP 2027 — Posts Instagram · vol. 1` (`DAHWihdcqtc`), **pág. 87**. [Editar](https://www.canva.com/d/3YOq9S2tH0aBx7d)
 
 - **Planilha**: 15/10 · 17h · @nerdverso · ARQUIVO NERD · Carrossel · CTA: "O que existe nessa área?" · palavra-chave ARQUIVO · **Repost em 18/10 às 09h** (ANOMALIA / GLITCH)
 - **Formato**: carrossel com 4 slides em 1080×1350, panorâmico (4320×1350), base na pág. 300 do mestre (N.E.R.D.)
 - **Série ARQUIVO NERD**: mesmo padrão do LOG #030 (pill, LOG, pills de status e carimbo roxo, aqui escrito CENSURADO), mais uma barra preta de censura.
 
-**Canva**: temporário ID `DAHWipLmu6I` — será consolidado no arquivo único `NXP 2027 — Posts Instagram (arquivo único)` (`DAHWihdcqtc`). Título: `NERDVERSO · Carrossel · Arquivo Nerd · Mapa censurado · v1`.
 
 | Slide | Texto |
 |---|---|

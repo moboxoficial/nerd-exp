@@ -3,7 +3,7 @@
 - **Planilha**: nº58 · 20/10 · 13h · @nerdexperience · NXP SERVIÇO · "Por que vale organizar ingresso, transporte e grupo com antecedência" · Carrossel · CTA "Envia para o responsável pelo rolê."
 - **Nome padrão**: NXP · Carrossel · NXP Serviço · Organize com antecedência · v1
 - **Formato**: carrossel 6 slides, 1080×1350 (`slide_01.png` … `slide_06.png`)
-- **Canva**: temporário `DAHWim5fFIA` ([editar](https://www.canva.com/d/N4GFbTkqe0ClzLO)) — será consolidado no arquivo único `DAHWihdcqtc`.
+- **Canva**: `NXP 2027 — Posts Instagram · vol. 2` (`DAHWizfK3FI`), **pág. 8–13**. [Editar](https://www.canva.com/d/HDZ3O72Z_bSSGSJ)
 
 | Slide | Conteúdo |
 |---|---|

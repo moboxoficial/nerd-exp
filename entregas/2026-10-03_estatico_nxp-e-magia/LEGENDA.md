@@ -2,7 +2,7 @@
 
 - **Planilha**: 03/10 · 09h · @nerdexperience · NXP É: MAGIA · "Fotos do evento com legenda curta" · Estático · CTA "Qual foto te leva de volta pro evento?" · status "Em aprovação"
 - **Formato**: feed 4:5, 1080×1350 (`post.png`)
-- **Canva**: arquivo único `NXP 2027 — Posts Instagram (arquivo único)` (`DAHWihdcqtc`), **pág. 8**. [Editar](https://www.canva.com/d/c-GYLOc3-eHsiAz)
+- **Canva**: `NXP 2027 — Posts Instagram · vol. 1` (`DAHWihdcqtc`), **pág. 8**. [Editar](https://www.canva.com/d/3YOq9S2tH0aBx7d)
 - **Foto**: criança em cosplay de M3GAN no NXP 2024 (vinda da pág. 263 do mestre, reenviada como asset próprio `MAHWiRiGQCc`).
 
 **Texto da arte**: NXP É / **MAGIA** · 27 E 28 DE FEVEREIRO DE 2027 · EXPOMINAS · selo "além do portal"

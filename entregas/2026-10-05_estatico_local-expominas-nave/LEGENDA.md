@@ -2,7 +2,7 @@
 
 - **Planilha**: nº21 · 05/10 · 13h · @nerdexperience · INFO/SERVIÇO · "Local: Expominas, BH – Nave pousando" · Estático
 - **Formato**: feed 4:5, 1080×1350 (`post.png`)
-- **Canva**: temporário `DAHWi-KiVDU` ("NXP · Estático · Serviço · Local Expominas nave pousando · v1") — será consolidado no arquivo único `DAHWihdcqtc`
+- **Canva**: `NXP 2027 — Posts Instagram · vol. 1` (`DAHWihdcqtc`), **pág. 26**. [Editar](https://www.canva.com/d/3YOq9S2tH0aBx7d)
 - **Base**: fechamento neon (mestre p.270), o mesmo que encerra os carrosséis da série
 
 | Elemento | Conteúdo |

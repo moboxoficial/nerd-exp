@@ -1,9 +1,9 @@
 # Carrossel: "Apresentando um mundo: Pixel"
+- **Canva**: `NXP 2027 — Posts Instagram · vol. 1` (`DAHWihdcqtc`), **pág. 80**. [Editar](https://www.canva.com/d/3YOq9S2tH0aBx7d)
 
 - **Planilha**: 14/10 · 09h · @nerdverso · APRESENTANDO UM MUNDO · Pixel · Carrossel + Reels · CTA da planilha: "Você moraria numa ilha flutuante?" → **corrigido para "Você viveria em Pixel?"**
 - **Formato**: carrossel com 4 slides em 1080×1350, panorâmico (4320×1350), base na pág. 297 do mestre (card do Kodex, adaptado para o mundo)
 
-**Canva**: temporário ID `DAHWigAKFP4` — será consolidado no arquivo único `NXP 2027 — Posts Instagram (arquivo único)` (`DAHWihdcqtc`). Título: `NERDVERSO · Carrossel · Apresentando um mundo: Pixel · v1`.
 
 | Slide | Texto |
 |---|---|

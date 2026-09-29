@@ -1,9 +1,9 @@
 # Carrossel: "O que vai rolar no NXP: Guia do Rob"
+- **Canva**: `NXP 2027 — Posts Instagram · vol. 1` (`DAHWihdcqtc`), **pág. 72**. [Editar](https://www.canva.com/d/3YOq9S2tH0aBx7d)
 
 - **Planilha**: 12/10 · 21h · @nerdverso · O QUE VAI ROLAR NO NXP · Guia de atração e ativação · Carrossel · CTA: "Rob antigo ou atual?" · palavra-chave ROB
 - **Formato**: carrossel com 7 slides em 1080×1350, panorâmico (7560×1350), base na pág. 277 do mestre
 
-**Canva**: temporário ID `DAHWii4SNag` — será consolidado no arquivo único `NXP 2027 — Posts Instagram (arquivo único)` (`DAHWihdcqtc`). Título: `NERDVERSO · Carrossel · O que vai rolar no NXP · Guia do Rob · v1`.
 
 | Slide | Texto |
 |---|---|

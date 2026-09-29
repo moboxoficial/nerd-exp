@@ -1,9 +1,9 @@
 # Carrossel: "Apresentando Dr. Pat e a PaTech"
+- **Canva**: `NXP 2027 — Posts Instagram · vol. 1` (`DAHWihdcqtc`), **pág. 24**. [Editar](https://www.canva.com/d/3YOq9S2tH0aBx7d)
 
 - **Planilha**: 05/10 · 10h · @nerdverso · APRESENTANDO UM PERSONAGEM · Reels animado + Carrossel · CTA: "Você confiaria no Dr. Pat?" · status "Em aprovação"
 - **Formato**: carrossel com 4 slides em 1080×1350, panorâmico (4320×1350), base na pág. 290 do mestre (Dr. Pat)
 
-**Canva**: temporário ID `DAHWijjjyp8` — será consolidado no arquivo único `NXP 2027 — Posts Instagram (arquivo único)` (`DAHWihdcqtc`). Título: `NERDVERSO · Carrossel · Dr. Pat e a PaTech · v1`.
 
 | Slide | Texto |
 |---|---|

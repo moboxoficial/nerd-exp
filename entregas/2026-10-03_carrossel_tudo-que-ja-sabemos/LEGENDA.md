@@ -2,7 +2,7 @@
 
 - **Planilha**: nº13 · 03/10 · 17h · @nerdexperience · GUIA DO EXPLORADOR · "Tudo que já sabemos do NXP 2027" · Carrossel
 - **Formato**: carrossel 6 slides, 1080×1350 (`slide_01.png` … `slide_06.png`)
-- **Canva**: temporário `DAHWihUIho0` ("NXP · Carrossel · Guia do Explorador · Tudo que já sabemos do NXP 2027 · v1") — será consolidado no arquivo único `DAHWihdcqtc`
+- **Canva**: `NXP 2027 — Posts Instagram · vol. 1` (`DAHWihdcqtc`), **pág. 12–17**. [Editar](https://www.canva.com/d/3YOq9S2tH0aBx7d)
 - **Série**: card Confissões (mestre p.318) com selo "GUIA DO EXPLORADOR" + Rob no balão; fechamento neon (mestre p.270)
 
 | Slide | Conteúdo |

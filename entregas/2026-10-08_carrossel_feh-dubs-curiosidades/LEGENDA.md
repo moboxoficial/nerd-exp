@@ -3,7 +3,7 @@
 - **Nome padrão**: NXP · Carrossel · Atração · Feh Dubs Curiosidades · v1
 - **Planilha**: nº29 · 08/10 · 13h · @nerdexperience · ATRAÇÃO · CTA "Comenta 404 e concorra a um Next Level com meet & greet com a Feh"
 - **Formato**: carrossel com 3 slides de 1080×1350 (`slide_01.png` … `slide_03.png`)
-- **Canva**: design temporário `DAHWikTdupo`, que será consolidado no arquivo único `DAHWihdcqtc`. Modelos usados do mestre: págs. 269 (FAQ Meet & Greet Feh Dubs, com foto dela), 272 e 270. A foto da Feh do modelo (`MAHWC8sVubc`) foi reaproveitada no slide 2 dentro do mesmo design.
+- **Canva**: `NXP 2027 — Posts Instagram · vol. 1` (`DAHWihdcqtc`), **pág. 32–34**. [Editar](https://www.canva.com/d/3YOq9S2tH0aBx7d)
 - **Foco (diferente do nº44)**: quem ela é, nome artístico, início da carreira e redes. Personagens em detalhe ficam para o nº44.
 
 | Slide | Conteúdo |

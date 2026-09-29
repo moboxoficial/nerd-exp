@@ -2,7 +2,7 @@
 
 - **Planilha**: nº39 · 12/10 · 11h · @nerdexperience · GUIA DO EXPLORADOR · Famílias e grupos · Carrossel
 - **Formato**: carrossel 7 slides, 1080×1350 (`slide_01.png` … `slide_07.png`)
-- **Canva**: temporário `DAHWigfWV9Q` ("NXP · Carrossel · Guia do Explorador · Famílias e grupos · v1") — será consolidado no arquivo único `DAHWihdcqtc`
+- **Canva**: `NXP 2027 — Posts Instagram · vol. 1` (`DAHWihdcqtc`), **pág. 65–71**. [Editar](https://www.canva.com/d/3YOq9S2tH0aBx7d)
 
 | Slide | Conteúdo |
 |---|---|

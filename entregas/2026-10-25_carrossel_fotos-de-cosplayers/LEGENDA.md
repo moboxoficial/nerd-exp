@@ -3,7 +3,7 @@
 - **Planilha**: nº63 · 25/10 · 13h · @nerdexperience · GUIA DO EXPLORADOR · "Boas práticas para pedir e tirar fotos de cosplayers em eventos" · Carrossel · CTA "Compartilha com fotógrafos e cosplayers."
 - **Nome padrão**: NXP · Carrossel · Guia do Explorador · Fotos de cosplayers · v1
 - **Formato**: carrossel 6 slides, 1080×1350 (`slide_01.png` … `slide_06.png`)
-- **Canva**: temporário `DAHWiuZnm4s` ([editar](https://www.canva.com/d/5RevmYZTPcjkrCr)) — será consolidado no arquivo único `DAHWihdcqtc`.
+- **Canva**: `NXP 2027 — Posts Instagram · vol. 2` (`DAHWizfK3FI`), **pág. 27–32**. [Editar](https://www.canva.com/d/HDZ3O72Z_bSSGSJ)
 
 | Slide | Conteúdo |
 |---|---|

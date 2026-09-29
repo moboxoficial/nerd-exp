@@ -1,9 +1,9 @@
 # Carrossel: "Tempus: como surgiram os poderes dela?"
+- **Canva**: `NXP 2027 — Posts Instagram · vol. 1` (`DAHWihdcqtc`), **pág. 95**. [Editar](https://www.canva.com/d/3YOq9S2tH0aBx7d)
 
 - **Planilha**: 19/10 · 09h · @nerdverso · APRESENTANDO UM PERSONAGEM · Reels animado + Carrossel · CTA: "Qual poder você queria ter?"
 - **Formato**: carrossel com 4 slides em 1080×1350, panorâmico (4320×1350), base na pág. 292 do mestre (Tempus)
 
-**Canva**: temporário ID `DAHWiq0XcF4` — será consolidado no arquivo único `NXP 2027 — Posts Instagram (arquivo único)` (`DAHWihdcqtc`). Título: `NERDVERSO · Carrossel · Tempus: como surgiram os poderes · v1`.
 
 | Slide | Texto |
 |---|---|

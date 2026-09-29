@@ -1,10 +1,10 @@
 # Carrossel: "LORE DROP · Eldarion: 3 regras antes de chegar"
+- **Canva**: `NXP 2027 — Posts Instagram · vol. 2` (`DAHWizfK3FI`), **pág. 7**. [Editar](https://www.canva.com/d/HDZ3O72Z_bSSGSJ)
 
 - **Planilha**: 19/10 · 17h · @nerdverso · LORE DROP · Carrossel · CTA: "Qual regra você quebraria primeiro?" · palavra-chave ELDARION
 - **Formato**: carrossel com 4 slides em 1080×1350, panorâmico (4320×1350), base na pág. 291 do mestre (Gal)
 - **Série LORE DROP** (padrão novo): pill "LORE DROP" ao lado do logo NXP, regras numeradas "#1, #2…" com o número em destaque colorido e fechamento com pergunta em etiquetas. É o mesmo padrão do nº66.
 
-**Canva**: temporário ID `DAHWim7YmII` — será consolidado no arquivo único `NXP 2027 — Posts Instagram (arquivo único)` (`DAHWihdcqtc`). Título: `NERDVERSO · Carrossel · Lore Drop · Eldarion: 3 regras · v1`.
 
 | Slide | Texto |
 |---|---|

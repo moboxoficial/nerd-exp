@@ -3,7 +3,7 @@
 - **Nome padrão**: NXP · Carrossel · Nerd de A a Z · A de Anime · v1
 - **Planilha**: nº59 · 20/10 · [hora A CONFIRMAR] · collab @nerdexperience + @nerdverso · NERD DE A A Z · "A = Anime" · CTA livre
 - **Formato**: carrossel com 6 slides de 1080×1350, a partir de uma panorâmica de 6480×1350 (`slide_01.png` … `slide_06.png`)
-- **Canva**: design temporário `DAHWii9MLRs`, que será consolidado no arquivo único `DAHWihdcqtc`. Modelo usado do mestre: pág. 252 (Cosplayer do dia). A foto do slide 2 foi trocada pela foto liberada `MAHWiXRVEEA`; as demais são fotos de cosplay do modelo.
+- **Canva**: `NXP 2027 — Posts Instagram · vol. 2` (`DAHWizfK3FI`), **pág. 14**. [Editar](https://www.canva.com/d/HDZ3O72Z_bSSGSJ)
 
 | Slide | Conteúdo |
 |---|---|

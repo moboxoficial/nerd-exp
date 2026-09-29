@@ -1,7 +1,7 @@
 # Carrossel PREMIUM — "NXP apresenta: Once Human"
 
 - **Formato**: carrossel Instagram, 4 slides 1080×1350 (`slide_01.png` … `slide_04.png`)
-- **Canva**: arquivo único `NXP 2027 — Posts Instagram (arquivo único)` (`DAHWihdcqtc`), **pág. 11**. [Editar](https://www.canva.com/d/c-GYLOc3-eHsiAz)
+- **Canva**: `NXP 2027 — Posts Instagram · vol. 1` (`DAHWihdcqtc`), **pág. 98**. [Editar](https://www.canva.com/d/3YOq9S2tH0aBx7d)
 - **Conceito**: a ativação é apresentada como um novo personagem que chegou ao NerdVerso, no mesmo formato cinematográfico da série de personagens do NXP.
 - **Imagens**: arte oficial do site oncehuman.game (sobrevivente e logo) e recorte oficial do GWM Haval H6 GT (gwmmotors.com.br)
 

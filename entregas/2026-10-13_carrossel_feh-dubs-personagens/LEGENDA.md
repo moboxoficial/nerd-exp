@@ -3,7 +3,7 @@
 - **Nome padrão**: NXP · Carrossel · Atração NXP · Feh Dubs Personagens Marcantes · v1
 - **Planilha**: nº44 · 13/10 · 21h · @nerdexperience · ATRAÇÃO NXP · CTA "Comenta FEH se quer mais conteúdo sobre ela."
 - **Formato**: carrossel com 6 slides de 1080×1350, a partir de uma panorâmica de 6480×1350 (`slide_01.png` … `slide_06.png`)
-- **Canva**: design temporário `DAHWiubIVBE`, que será consolidado no arquivo único `DAHWihdcqtc`. Modelo usado do mestre: pág. 173 (perfil Feh Dubs). As fotos dela e dos personagens foram mantidas do modelo.
+- **Canva**: `NXP 2027 — Posts Instagram · vol. 1` (`DAHWihdcqtc`), **pág. 79**. [Editar](https://www.canva.com/d/3YOq9S2tH0aBx7d)
 - **Foco (diferente do nº29)**: personagens e obras da carreira. O nº29 cobriu curiosidades pessoais e bastidores.
 
 | Slide | Conteúdo |

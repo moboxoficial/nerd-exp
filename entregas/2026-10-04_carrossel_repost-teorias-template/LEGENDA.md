@@ -3,7 +3,7 @@
 - **Nome padrão**: NERDVERSO · Carrossel · Repost Teorias da Semana · Template · v1
 - **Planilha**: nº16 · 04/10 · 20h · @nerdverso · COMUNIDADE · "Repost: as melhores teorias e comentários da semana" · CTA "Manda sua teoria"
 - **Formato**: carrossel com 4 slides de 1080×1350 (`slide_01.png` … `slide_04.png`)
-- **Canva**: design temporário `DAHWihkFFaE`, que será consolidado no arquivo único `DAHWihdcqtc`. Modelos usados do mestre: págs. 209 (Diário do Rob), 231, 232 e 233.
+- **Canva**: `NXP 2027 — Posts Instagram · vol. 1` (`DAHWihdcqtc`), **pág. 18–21**. [Editar](https://www.canva.com/d/3YOq9S2tH0aBx7d)
 
 | Slide | Conteúdo |
 |---|---|

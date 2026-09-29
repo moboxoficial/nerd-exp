@@ -3,7 +3,7 @@
 - **Nome padrão**: NXP · Carrossel · Atrações Confirmadas · Feh Dubs + Gaveta · v1
 - **Planilha**: nº24 · 06/10 · 11h · @nerdexperience · ATRAÇÃO · "Youtuber/criador confirmado FehDubs + Gaveta" · CTA por automação
 - **Formato**: carrossel com 3 slides de 1080×1350, a partir de uma panorâmica de 3240×1350 (`slide_01.png` … `slide_03.png`)
-- **Canva**: design temporário `DAHWijl4F90`, que será consolidado no arquivo único `DAHWihdcqtc`. Modelo usado do mestre: pág. 174. As fotos de Gaveta e Feh foram mantidas do modelo.
+- **Canva**: `NXP 2027 — Posts Instagram · vol. 1` (`DAHWihdcqtc`), **pág. 27**. [Editar](https://www.canva.com/d/3YOq9S2tH0aBx7d)
 
 | Slide | Conteúdo |
 |---|---|

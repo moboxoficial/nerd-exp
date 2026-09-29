@@ -1,9 +1,9 @@
 # Carrossel: "Tirinha do NerdVerso #3: o primeiro dia de um explorador"
+- **Canva**: `NXP 2027 — Posts Instagram · vol. 1` (`DAHWihdcqtc`), **pág. 36**. [Editar](https://www.canva.com/d/3YOq9S2tH0aBx7d)
 
 - **Planilha**: 09/10 · **horário em branco [A CONFIRMAR]** · @nerdverso · TIRINHA DO NERDVERSO · Carrossel de 3 a 4 quadros · CTA: "O que acontece no próximo quadro?"
 - **Formato**: carrossel com 4 slides em 1080×1350, panorâmico (4320×1350), base na pág. 286 do mestre (Rob)
 
-**Canva**: temporário ID `DAHWinPJjlI` — será consolidado no arquivo único `NXP 2027 — Posts Instagram (arquivo único)` (`DAHWihdcqtc`). Título: `NERDVERSO · Carrossel · Tirinha #3 · O primeiro dia de um explorador · v1`.
 
 | Quadro | Texto |
 |---|---|

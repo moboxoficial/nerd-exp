@@ -2,7 +2,7 @@
 
 - **Planilha**: nº36 · 11/10 · 13h · @nerdexperience · GUIA DO EXPLORADOR · "Primeiro NXP? 5 coisas" · Carrossel
 - **Formato**: carrossel 7 slides, 1080×1350 (`slide_01.png` … `slide_07.png`)
-- **Canva**: temporário `DAHWimWU5y8` ("NXP · Carrossel · Guia do Explorador · Primeiro NXP 5 coisas · v1") — será consolidado no arquivo único `DAHWihdcqtc`
+- **Canva**: `NXP 2027 — Posts Instagram · vol. 1` (`DAHWihdcqtc`), **pág. 51–57**. [Editar](https://www.canva.com/d/3YOq9S2tH0aBx7d)
 
 | Slide | Conteúdo |
 |---|---|

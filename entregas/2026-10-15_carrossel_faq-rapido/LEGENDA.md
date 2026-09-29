@@ -2,7 +2,7 @@
 
 - **Planilha**: nº49 · 15/10 · 17h · @nerdexperience · NXP SERVIÇO · FAQ rápido · Carrossel
 - **Formato**: carrossel 6 slides, 1080×1350 (`slide_01.png` … `slide_06.png`)
-- **Canva**: temporário `DAHWihVC9_8` ("NXP · Carrossel · Serviço · FAQ rápido · v1") — será consolidado no arquivo único `DAHWihdcqtc`
+- **Canva**: `NXP 2027 — Posts Instagram · vol. 1` (`DAHWihdcqtc`), **pág. 81–86**. [Editar](https://www.canva.com/d/3YOq9S2tH0aBx7d)
 - **Série**: mesmo modelo do Guia do Explorador, com selo "NXP SERVIÇO"
 
 | Slide | Conteúdo |

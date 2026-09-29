@@ -1,9 +1,9 @@
 # Carrossel: "Conheça a Bíblia do NerdVerso"
+- **Canva**: `NXP 2027 — Posts Instagram · vol. 1` (`DAHWihdcqtc`), **pág. 11**. [Editar](https://www.canva.com/d/3YOq9S2tH0aBx7d)
 
 - **Planilha**: 03/10 · 17h · @nerdverso · BÍBLIA DO NERDVERSO · Reels + Carrossel · CTA: "Comenta BÍBLIA e recebe o link do site" · palavra-chave BÍBLIA
 - **Formato**: carrossel com 7 slides em 1080×1350 (`slide_01.png` a `slide_07.png`), panorâmico contínuo (7560×1350), base na pág. 274 do mestre
 
-**Canva**: temporário ID `DAHWiuB-Iek` — será consolidado no arquivo único `NXP 2027 — Posts Instagram (arquivo único)` (`DAHWihdcqtc`). Título: `NERDVERSO · Carrossel · Bíblia do NerdVerso · v1`.
 
 | Slide | Texto |
 |---|---|

@@ -1,10 +1,10 @@
 # Carrossel: "LORE DROP · Protocolo N.E.R.D. para criaturas"
+- **Canva**: `NXP 2027 — Posts Instagram · vol. 2` (`DAHWizfK3FI`), **pág. 39**. [Editar](https://www.canva.com/d/HDZ3O72Z_bSSGSJ)
 
 - **Planilha**: 26/10 · 21h · @nerdverso · LORE DROP · Carrossel · CTA: "Qual regra não pode faltar?" · palavra-chave LORE
 - **Formato**: carrossel com 7 slides em 1080×1350, panorâmico (7560×1350), base na pág. 276 do mestre ("O portal foi aberto")
 - **Série LORE DROP**: mesmo padrão do nº56 (pill "LORE DROP · N.E.R.D.", regras numeradas #1 a #4 com destaque colorido).
 
-**Canva**: temporário ID `DAHWiu9eR1Y` — será consolidado no arquivo único `NXP 2027 — Posts Instagram (arquivo único)` (`DAHWihdcqtc`). Título: `NERDVERSO · Carrossel · Lore Drop · Protocolo N.E.R.D. para criaturas · v1`.
 
 | Slide | Texto |
 |---|---|

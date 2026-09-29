@@ -46,7 +46,7 @@ Se faltar qualquer um desses itens, a peça não está no padrão.
    - **Layout** (fundo, elemento central, posição do logo, bloco de data, CTA)
    - **Legenda** do post + hashtags + CTA + sugestão de primeiro comentário
    - **Checklist QA** rápido (ver `13-checklist-qa.md`)
-4. **Padrão: toda arte fica editável no Canva, num ARQUIVO ÚNICO** (ver "PADRÃO DE ENTREGA DE ARTES" em `12-canva-workflow.md`). Monte num temporário copiado do modelo → consolide com `merge-designs` no arquivo único `NXP 2027 — Posts Instagram (arquivo único)` (`DAHWihdcqtc`), com nome `NXP · [Formato] · [Campanha] · [Variação] · vN` nas notas da página → mande **todo** temporário ou rascunho pra `🗑️ PARA APAGAR (lixeira)`. Nada de design solto, subpasta por campanha ou `_apoio`. Na resposta: link do arquivo único + páginas + PNGs. Nunca apague nem sobrescreva páginas do mestre sem confirmação.
+4. **Padrão: toda arte fica editável no Canva, no ARQUIVO DE POSTS EM VOLUMES** (ver "PADRÃO DE ENTREGA DE ARTES" em `12-canva-workflow.md`). Monte num temporário copiado do modelo → consolide com `merge-designs` no volume ativo `NXP 2027 — Posts Instagram · vol. N` (hoje vol. 2 `DAHWizfK3FI`; limite de 100 págs. por design via API → novo volume perto de ~95), com nome `NXP · [Formato] · [Campanha] · [Variação] · vN` nas notas da página → mande **todo** temporário ou rascunho pra `🗑️ PARA APAGAR (lixeira)`. Nada de design solto, subpasta por campanha ou `_apoio`. Na resposta: link do volume + páginas + PNGs. Nunca apague nem sobrescreva páginas do mestre sem confirmação.
 5. **Referências visuais** ficam em `assets/` desta skill (brand boards e painéis com as peças reais). Use-as para conferir quando tiver dúvida.
 
 ## Não faça

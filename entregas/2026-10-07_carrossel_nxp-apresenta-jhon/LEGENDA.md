@@ -1,9 +1,9 @@
 # Carrossel: "NXP apresenta: Jhon, o Jacaré de Couro de Aço"
+- **Canva**: `NXP 2027 — Posts Instagram · vol. 1` (`DAHWihdcqtc`), **pág. 28**. [Editar](https://www.canva.com/d/3YOq9S2tH0aBx7d)
 
 - **Planilha**: 07/10 · 09h · @nerdverso · NXP APRESENTA · Reels animado + Carrossel · **sem CTA** · a ideia está em branco na planilha
 - **Formato**: carrossel com 4 slides em 1080×1350, panorâmico (4320×1350), base na pág. 298 do mestre (card do Jhon, sem alteração de texto)
 
-**Canva**: temporário ID `DAHWihCofNs` — será consolidado no arquivo único `NXP 2027 — Posts Instagram (arquivo único)` (`DAHWihdcqtc`). Título: `NERDVERSO · Carrossel · NXP apresenta: Jhon · v1`.
 
 | Slide | Texto |
 |---|---|

@@ -3,7 +3,7 @@
 - **Nome padrão**: NERDVERSO · Estático · Fan Art da Semana · Template · v1
 - **Planilha**: nº37 · 11/10 · 13h · @nerdverso · FAN ART / COMUNIDADE · CTA "Marca @nerdverso na sua arte"
 - **Formato**: feed 4:5, 1080×1350 (`post.png`). O PNG mostra a moldura vazia (template).
-- **Canva**: design temporário `DAHWiovPFT4`, que será consolidado no arquivo único `DAHWihdcqtc`. Modelo usado do mestre: pág. 211 (NerdVerso lembrança/Pixel).
+- **Canva**: `NXP 2027 — Posts Instagram · vol. 1` (`DAHWihdcqtc`), **pág. 58**. [Editar](https://www.canva.com/d/3YOq9S2tH0aBx7d)
 
 **Layout**: fundo `#291833` · moldura roxa `#49236C` com borda ciano (920×820), com um quadro de imagem substituível por cima · pills "fan art · nerdverso" no topo · FAN ART em Genius Techo · pill ciano→azul [@artista] · blob escuro · "Marca @nerdverso na sua arte: a próxima pode ser a sua!"
 

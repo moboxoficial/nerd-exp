@@ -2,7 +2,7 @@
 
 - **Planilha**: 01/10 · 14h · @nerdexperience · TBT NXP · "Fotos de TBT" · Carrossel · status "Em aprovação"
 - **Formato**: carrossel 4 slides, 1080×1350 (`slide_01.png` … `slide_04.png`)
-- **Canva**: arquivo único `NXP 2027 — Posts Instagram (arquivo único)` (`DAHWihdcqtc`), **pág. 2–5**. [Editar](https://www.canva.com/d/c-GYLOc3-eHsiAz)
+- **Canva**: `NXP 2027 — Posts Instagram · vol. 1` (`DAHWihdcqtc`), **pág. 2–5**. [Editar](https://www.canva.com/d/3YOq9S2tH0aBx7d)
 
 | Slide | Conteúdo |
 |---|---|

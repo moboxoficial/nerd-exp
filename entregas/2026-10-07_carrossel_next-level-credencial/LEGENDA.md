@@ -3,7 +3,7 @@
 - **Nome padrão**: NXP · Carrossel · Next Level · Credencial Colecionável · v1
 - **Planilha**: nº27 · 07/10 · 13h · @nerdexperience · NEXT LEVEL · "A credencial colecionável" · CTA link
 - **Formato**: carrossel com 4 slides de 1080×1350, a partir de uma panorâmica de 4320×1350 (`slide_01.png` … `slide_04.png`)
-- **Canva**: design temporário `DAHWilJ7kPo`, que será consolidado no arquivo único `DAHWihdcqtc`. Modelo usado do mestre: pág. 125 (Conheça o kit). As fotos do kit foram mantidas.
+- **Canva**: `NXP 2027 — Posts Instagram · vol. 1` (`DAHWihdcqtc`), **pág. 29**. [Editar](https://www.canva.com/d/3YOq9S2tH0aBx7d)
 
 | Slide | Conteúdo |
 |---|---|

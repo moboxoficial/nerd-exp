@@ -3,7 +3,7 @@
 - **Planilha**: nº60 · 21/10 · 13h · @nerdexperience · GUIA DO EXPLORADOR · "Como economizar bateria do celular durante um evento inteiro" · Carrossel · CTA "Marca o amigo que vive em 3%."
 - **Nome padrão**: NXP · Carrossel · Guia do Explorador · Bateria do celular · v1
 - **Formato**: carrossel 6 slides, 1080×1350 (`slide_01.png` … `slide_06.png`)
-- **Canva**: temporário `DAHWigE83ws` ([editar](https://www.canva.com/d/sQo8FIbZwGlJ9EX)) — será consolidado no arquivo único `DAHWihdcqtc`.
+- **Canva**: `NXP 2027 — Posts Instagram · vol. 2` (`DAHWizfK3FI`), **pág. 15–20**. [Editar](https://www.canva.com/d/HDZ3O72Z_bSSGSJ)
 
 | Slide | Conteúdo |
 |---|---|
