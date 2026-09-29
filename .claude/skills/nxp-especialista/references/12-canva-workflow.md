@@ -23,6 +23,14 @@ Toda arte do NXP é **produzida e deixada no Canva, 100% editável**, pra equipe
 |---|---|---|---|
 | 2026-09-28 | NXP · Carrossel · Ativação Once Human · Padrão (5 slides) · v1 | `DAHWhhoHjC8` | 2026-10 · Ativação Once Human (`FAHWiUmhNrg`) |
 | 2026-09-29 | NXP · Carrossel · Ativação Once Human · Premium (4 slides) · v1 | `DAHWhgYqm84` | 2026-10 · Ativação Once Human (`FAHWiUmhNrg`) |
+| 2026-09-29 | NXP · Estático · NXP É: Descoberta · v1 | `DAHWiYo_tAw` | 2026-10 · Posts Semana 1 (`FAHWiogm7Sc`) |
+| 2026-09-29 | NXP · Carrossel · TBT NXP · Portal 404 · v1 | `DAHWiYqdMGQ` | 2026-10 · Posts Semana 1 (`FAHWiogm7Sc`) |
+| 2026-09-29 | NERDVERSO · Carrossel · Tirinha #2 · Rob deixa a PaTech · v1 | `DAHWiVT8S20` | 2026-10 · Posts Semana 1 (`FAHWiogm7Sc`) |
+| 2026-09-29 | NXP · Carrossel · Cosplay · Jurado 01 · v1 | `DAHWiRCztp8` | 2026-10 · Posts Semana 1 (`FAHWiogm7Sc`) |
+| 2026-09-29 | NXP · Estático · NXP É: Magia · v1 | `DAHWicfBZ1k` | 2026-10 · Posts Semana 1 (`FAHWiogm7Sc`) |
+
+**Reaproveitar fotos do mestre em outro design**: `update_fill` com um mediaId do mestre falha ("media bundle… not found" / `permission_denied`), porque a mídia pertence ao design de origem. Solução: copiar a página que tem a foto (`copy-design`) → apagar os outros elementos → exportar em JPG 2× → subir com `create-upload-url` → usar o novo mediaId. Rascunhos ficam em `_apoio` dentro da pasta da campanha. Fotos já reenviadas: descoberta `MAHWiYgpK0I`, cosplay M3GAN `MAHWiRiGQCc`, diversão (cabelo verde) `MAHWiXRVEEA`.
+**Armadilha**: `replace_text` em parágrafos de corpo às vezes liga marcador de lista. Corrija com `format_text` `list_level: 0`.
 
 Modelos que funcionaram bem: **Ativação/Atração confirmada** (págs. 198 + 204 do mestre) para anúncio informativo; **série "NXP apresenta"** (págs. 286–300, ex.: 292 Tempus) para anúncios premium/colabs, com recorte do personagem/produto sem fundo.
 
