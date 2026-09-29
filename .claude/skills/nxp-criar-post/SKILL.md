@@ -33,7 +33,7 @@ Entregue exatamente nesta ordem:
 
 ## Passo 4 — Montagem
 
-- **Com Canva MCP (padrão obrigatório)**: siga o "PADRÃO DE ENTREGA DE ARTES" em `references/12-canva-workflow.md` da nxp-especialista — copiar modelo → editar textos → trocar imagens → salvar → nomear `NXP · [Formato] · [Campanha] · [Variação] · vN` → mover para a pasta da campanha em `NXP 2027 — Posts Instagram` → exportar PNG. A arte fica **editável no Canva**; sempre entregar o **link de edição** + link da pasta junto dos PNGs.
+- **Com Canva MCP (padrão obrigatório)**: siga o "PADRÃO DE ENTREGA DE ARTES" em `references/12-canva-workflow.md` da nxp-especialista — copiar modelo num temporário → editar textos → trocar imagens → salvar → consolidar com `merge-designs` no **arquivo único** `DAHWihdcqtc` (1 `insert_pages` por chamada) → escrever nas notas da página o nome `NXP · [Formato] · [Campanha] · [Variação] · vN` + data e perfil → mover o temporário e os rascunhos pra `🗑️ PARA APAGAR (lixeira)` → exportar PNG do arquivo único. A arte fica **editável no Canva**; sempre entregar o link do arquivo único + as páginas junto dos PNGs. Nunca deixar design solto nem criar subpasta por campanha.
 - **Sem Canva MCP**: a ficha do Passo 3 é o entregável para o designer. Se o usuário quiser um rascunho visual, gere um HTML/PNG simples com os tokens de `assets/tokens.css` (dentro da skill nxp-especialista) (marcando que é mock, não arte final).
 
 ## Passo 5 — QA

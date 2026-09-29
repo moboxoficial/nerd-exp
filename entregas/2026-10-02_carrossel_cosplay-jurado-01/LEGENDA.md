@@ -2,7 +2,7 @@
 
 - **Planilha**: 02/10 · 16h · @nerdexperience **e** @nerdverso (collab) · COSPLAY · "Apresentando o jurado 01" · Carrossel · CTA "Comenta COSPLAY e recebe o regulamento" · status "Em aprovação"
 - **Formato**: carrossel 6 slides, 1080×1350 (`slide_01.png` … `slide_06.png`), panorâmico
-- **Canva**: `NXP · Carrossel · Cosplay · Jurado 01 · v1`, [editar](https://www.canva.com/d/CuMi2ghV1A06cr_) (ID `DAHWiRCztp8`). Base: pág. 252 do mestre (modelo "nome do cosplayer").
+- **Canva**: arquivo único `NXP 2027 — Posts Instagram (arquivo único)` (`DAHWihdcqtc`), **pág. 7**. [Editar](https://www.canva.com/d/c-GYLOc3-eHsiAz)
 
 | Slide | Conteúdo |
 |---|---|

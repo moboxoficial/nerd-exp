@@ -2,7 +2,7 @@
 
 - **Planilha**: 02/10 · 12h · @nerdverso · TIRINHA DO NERDVERSO · Carrossel 3–4 quadros · CTA: puxar o público pro grupo secreto 404 · status "A produzir"
 - **Formato**: carrossel 4 slides, 1080×1350 (`slide_01.png` … `slide_04.png`), panorâmico contínuo
-- **Canva**: `NERDVERSO · Carrossel · Tirinha #2 · Rob deixa a PaTech · v1`, [editar](https://www.canva.com/d/C2hth8qCwavosCD) (ID `DAHWiVT8S20`). Base: pág. 286 do mestre (Rob).
+- **Canva**: arquivo único `NXP 2027 — Posts Instagram (arquivo único)` (`DAHWihdcqtc`), **pág. 6**. [Editar](https://www.canva.com/d/c-GYLOc3-eHsiAz)
 - **Direção da planilha**: tirinha mais descritiva, com contexto de lore e atrelada a um reels explicativo; opção "pergunta sobre o Rob na lore".
 
 | Quadro | Texto |

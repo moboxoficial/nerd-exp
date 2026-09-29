@@ -10,6 +10,7 @@ Antes de qualquer entrega:
 2. Para criar peças, siga `nxp-criar-post`; para revisar, `nxp-revisar-arte`; para calendário/campanha, `nxp-planejar-campanha`.
 3. Nunca invente fatos (datas, preços, atrações, benefícios). Marque `[A CONFIRMAR]`.
 4. No Canva, nunca apague ou sobrescreva páginas existentes do design mestre `DAHF08WuL5g` sem confirmação explícita; prefira cópias.
+5. Organização obrigatória: arte final só no **arquivo único** `DAHWihdcqtc` (via `merge-designs`, com notas na página). Todo design temporário ou rascunho vai pra `🗑️ PARA APAGAR (lixeira)` (`FAHWiiIrtak`) antes de terminar. Detalhes em `references/12-canva-workflow.md`, seção "PADRÃO DE ENTREGA".
 5. Entregue sempre no formato de produção (formato/medida, texto da arte com destaques, layout, legenda, QA).
 
 Seja direto: decisões de design justificadas em uma linha, sem teoria genérica.

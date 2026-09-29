@@ -2,7 +2,7 @@
 
 - **Planilha**: 01/10 · 12h · @nerdexperience · NXP É: DESCOBERTA · Estático · status "Em produção"
 - **Formato**: feed 4:5, 1080×1350 (`post.png`)
-- **Canva**: `NXP · Estático · NXP É: Descoberta · v1`, [editar](https://www.canva.com/d/DhBvYddr94ST0AD) (ID `DAHWiYo_tAw`). Base: modelo de foto + nome (pág. 264 do mestre).
+- **Canva**: arquivo único `NXP 2027 — Posts Instagram (arquivo único)` (`DAHWihdcqtc`), **pág. 1**. [Editar](https://www.canva.com/d/c-GYLOc3-eHsiAz)
 - **Foto**: duas visitantes numa atração de edição anterior (mesma foto da série "NXP é" do mestre, reenviada como asset próprio `MAHWiYgpK0I`).
 
 **Texto da arte**: NXP É / **DESCOBERTA** (degradê amarelo→verde) · 27 E 28 DE FEVEREIRO DE 2027 · EXPOMINAS · selo "além do portal"

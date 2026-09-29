@@ -1,7 +1,7 @@
 # Carrossel — Ativação oficial Once Human × NXP 2027
 
 - **Formato**: carrossel Instagram, 5 slides 1080×1350 (`slide_01.png` … `slide_05.png`, subir nessa ordem)
-- **Canva**: design "NXP Pop Festival" `DAHWhhoHjC8` (cópia das páginas-modelo 198 + 204 do mestre `DAHF08WuL5g`)
+- **Canva**: arquivo único `NXP 2027 — Posts Instagram (arquivo único)` (`DAHWihdcqtc`), **pág. 9–10**. [Editar](https://www.canva.com/d/c-GYLOc3-eHsiAz)
 - **Imagens**: capturas oficiais de Once Human (página Steam) e foto oficial do GWM Haval H6 GT (gwmmotors.com.br), marcada como "imagem ilustrativa"
 
 ## Legenda

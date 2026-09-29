@@ -2,7 +2,7 @@
 
 - **Planilha**: 01/10 · 14h · @nerdexperience · TBT NXP · "Fotos de TBT" · Carrossel · status "Em aprovação"
 - **Formato**: carrossel 4 slides, 1080×1350 (`slide_01.png` … `slide_04.png`)
-- **Canva**: `NXP · Carrossel · TBT NXP · Portal 404 · v1`, [editar](https://www.canva.com/d/Wt3Yxt_2ls0jdnq) (ID `DAHWiYqdMGQ`). Base: págs. 267, 264 e 270 do mestre.
+- **Canva**: arquivo único `NXP 2027 — Posts Instagram (arquivo único)` (`DAHWihdcqtc`), **pág. 2–5**. [Editar](https://www.canva.com/d/c-GYLOc3-eHsiAz)
 
 | Slide | Conteúdo |
 |---|---|

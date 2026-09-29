@@ -9,7 +9,7 @@ Repositório do Nerd Experience (NXP). Contém:
 
 - Use a skill `nxp-especialista` (e `nxp-criar-post`, `nxp-revisar-arte`, `nxp-planejar-campanha` conforme o pedido). Para lotes grandes, delegue ao subagente `nxp-diretor-de-arte`.
 - Design mestre no Canva: `DAHF08WuL5g` ("NXP Pop Festival"). Nunca apagar/sobrescrever páginas sem confirmação.
-- **Padrão de entrega**: toda arte é montada e deixada **editável no Canva** (cópia do modelo, nome `NXP · [Formato] · [Campanha] · [Variação] · vN`, pasta da campanha dentro de `NXP 2027 — Posts Instagram`), e a resposta traz o link de edição + PNGs em `entregas/`. Detalhes em `.claude/skills/nxp-especialista/references/12-canva-workflow.md`.
+- **Padrão de entrega**: toda arte final fica **editável no Canva, num arquivo único**, `NXP 2027 — Posts Instagram (arquivo único)` (`DAHWihdcqtc`), na pasta `NXP 2027 — Posts Instagram`. Monte num temporário, consolide com `merge-designs`, identifique a página nas notas (`NXP · [Formato] · [Campanha] · [Variação] · vN`) e mande todo temporário ou rascunho pra `🗑️ PARA APAGAR (lixeira)`. Nada de design solto nem subpasta por campanha. A resposta traz o link do arquivo único + páginas + PNGs em `entregas/`. Detalhes em `.claude/skills/nxp-especialista/references/12-canva-workflow.md`.
 - Não inventar fatos do evento; marcar `[A CONFIRMAR]`.
 - Responder em português do Brasil.
 
