@@ -2,6 +2,30 @@
 
 Quando o conector **Canva** estiver habilitado na sessão (claude.ai → Configurações → Conectores → Canva; no Claude Code, as ferramentas `mcp__Canva__*`), o especialista pode ler, duplicar, editar e exportar peças.
 
+## ⭐ PADRÃO DE ENTREGA DE ARTES (obrigatório)
+
+Toda arte do NXP é **produzida e deixada no Canva, 100% editável**, pra equipe poder ajustar depois. PNG exportado é complemento, nunca o único entregável.
+
+1. **Sempre montar no Canva** a partir de uma cópia (`copy-design` com as páginas-modelo do mestre `DAHF08WuL5g`). Nunca gerar a arte final fora do Canva (HTML/PIL) nem "achatar" em imagem única.
+2. **Manter camadas editáveis**: textos como texto (fonte da marca), imagens como molduras/fills substituíveis, logos e ícones como elementos soltos. Não rasterizar, não agrupar tudo, não usar imagem com texto embutido.
+3. **Nome do design**: `NXP · [Formato] · [Campanha/Tema] · [Variação] · v[N]`
+   - ex.: `NXP · Carrossel · Ativação Once Human · Premium (4 slides) · v1`, `NXP · Story · 2º Lote · v2`
+4. **Pasta**: `NXP 2027 — Posts Instagram` (`FAHWieBU748`) → subpasta da campanha `AAAA-MM · [Campanha]` (criar com `create-folder` se não existir; conferir antes com `search-folders`).
+5. **Imagens de parceiros/terceiros**: subir pro Canva (`upload-asset-from-url` ou `create-upload-url`) e aplicar como fill — assim a equipe troca pela versão final com 1 clique ("Substituir").
+6. **Salvar (commit) logo após cada bloco de edições** — a conexão MCP pode cair e transações abertas se perdem.
+7. **Exportar PNG** (fatiar carrossel panorâmico em 1080×1350) e salvar em `entregas/AAAA-MM-DD_[formato]_[campanha]/` com `LEGENDA.md`.
+8. **Na resposta ao usuário, sempre informar**: nome do design, **link de edição do Canva**, link da pasta e o que ficou editável/pendente (ex.: "foto do carro é placeholder — substitua a imagem do slide 3").
+9. **Nunca editar o design mestre** sem pedido explícito; nunca apagar páginas.
+
+### Registro de designs entregues
+
+| Data | Design | ID | Pasta |
+|---|---|---|---|
+| 2026-09-28 | NXP · Carrossel · Ativação Once Human · Padrão (5 slides) · v1 | `DAHWhhoHjC8` | 2026-10 · Ativação Once Human (`FAHWiUmhNrg`) |
+| 2026-09-29 | NXP · Carrossel · Ativação Once Human · Premium (4 slides) · v1 | `DAHWhgYqm84` | 2026-10 · Ativação Once Human (`FAHWiUmhNrg`) |
+
+Modelos que funcionaram bem: **Ativação/Atração confirmada** (págs. 198 + 204 do mestre) para anúncio informativo; **série "NXP apresenta"** (págs. 286–300, ex.: 292 Tempus) para anúncios premium/colabs, com recorte do personagem/produto sem fundo.
+
 ## Referências fixas
 
 | Item | Valor |

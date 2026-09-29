@@ -46,7 +46,7 @@ Se faltar qualquer um desses itens, a peça não está no padrão.
    - **Layout** (fundo, elemento central, posição do logo, bloco de data, CTA)
    - **Legenda** do post + hashtags + CTA + sugestão de primeiro comentário
    - **Checklist QA** rápido (ver `13-checklist-qa.md`)
-4. **Se o Canva MCP estiver conectado**, ofereça montar a peça duplicando a página-modelo mais parecida (ver `12-canva-workflow.md`). Nunca apague nem sobrescreva páginas existentes sem confirmação.
+4. **Padrão: toda arte é montada e deixada editável no Canva** (ver "PADRÃO DE ENTREGA DE ARTES" em `12-canva-workflow.md`): cópia da página-modelo mais parecida, nome `NXP · [Formato] · [Campanha] · [Variação] · vN`, pasta da campanha em `NXP 2027 — Posts Instagram`, e na resposta o **link de edição** + PNGs exportados. Nunca apague nem sobrescreva páginas do mestre sem confirmação.
 5. **Referências visuais** ficam em `assets/` desta skill (brand boards e painéis com as peças reais). Use-as para conferir quando tiver dúvida.
 
 ## Não faça
