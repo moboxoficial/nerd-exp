@@ -75,7 +75,8 @@ class Reader:
 class Clip:
     def __init__(self, src, t, d, src_in=0.0, speed=1.0, zoom=(1.0, 1.06), ease="io", cx=0.5, cy=0.5,
                  pan=(0, 0), shake=0.0, punch=(), punch_amt=0.08, rgb=0.0, flip=False, rot=0.0,
-                 audio_gain=None, name="", lut=None, eq="", anchor=None):
+                 audio_gain=None, name="", lut=None, eq="", anchor=None, focus=None):
+        self.focus = focus  # (fx, fy) fração do quadro de trabalho que fica no centro (crop premium)
         self.anchor = anchor  # (ax, ay, escala) no quadro de trabalho -> vai p/ (W/2, 0.42H)
         self.src, self.t, self.d, self.src_in = src["arquivo"], t, d, src["offset"] + src_in
         self.lut, self.eq = lut if lut is not None else src.get("lut"), eq
@@ -121,7 +122,13 @@ class Clip:
         s = (W / WW) * z
         ang = self.rot * u + (self.shake * 0.02 * math.sin(t * 23) if self.shake else 0)
         M = cv2.getRotationMatrix2D((WW / 2, WH / 2), ang, s)
-        if self.anchor:
+        if self.focus and not self.anchor:
+            fx, fy = self.focus
+            s = max(W / WW * z, W / WW * 1.001, H / WH * 1.001)
+            tx = min(max(W / 2 - fx * WW * s + sx, W - WW * s), 0.0)
+            ty = min(max(H / 2 - fy * WH * s + sy, H - WH * s), 0.0)
+            M = np.array([[s, 0, tx], [0, s, ty]], np.float64)
+        elif self.anchor:
             ax, ay, az = self.anchor
             s = max(az * z / self.zoom[0], W / WW * 1.001, H / WH * 1.001)   # nunca menor que "cobrir"
             tx = min(max(W / 2 - ax * s, W - WW * s), 0.0)                    # sem borda aparecendo
@@ -208,6 +215,31 @@ def text_image(txt, size, fill=("#f4f4f4",), fontp=None, stroke=0, stroke_fill="
         s = Image.new("RGBA", (tw, th), stroke_fill); s.putalpha(smask); out = Image.alpha_composite(out, s)
     c = col.convert("RGBA"); c.putalpha(mask); out = Image.alpha_composite(out, c)
     return out
+
+KV_TEXT_DIR = os.path.join(ROOT, "kvtext")
+_kv_index = None
+def kv_text(txt, size, fill=("#f4f4f4",), glow=None, vertical_grad=False, pad=40, line_gap=1.12):
+    """Texto em Genius Techno (fonte do KV) a partir das máscaras exportadas do Canva (PNG 200px/linha).
+    Cada linha de 'txt' precisa existir em kvtext/index.json. size = corpo aproximado em px."""
+    global _kv_index
+    if _kv_index is None: _kv_index = json.load(open(os.path.join(KV_TEXT_DIR, "index.json")))
+    masks = []
+    for ln in txt.split("\n"):
+        a = Image.open(os.path.join(KV_TEXT_DIR, _kv_index[ln])).getchannel("A")
+        k = size / 200.0
+        masks.append(a.resize((max(1, int(a.width * k)), max(1, int(a.height * k))), Image.LANCZOS))
+    lh = int(size * line_gap)
+    tw = max(m.width for m in masks) + 2 * pad
+    th = pad * 2 + lh * (len(masks) - 1) + masks[-1].height
+    mask = Image.new("L", (tw, th), 0)
+    for i, m in enumerate(masks):
+        mask.paste(m, ((tw - m.width) // 2, pad + i * lh + (lh - m.height) // 2 if len(masks) > 1 else pad))
+    col = Image.new("RGB", (tw, th), fill[0]) if len(fill) == 1 else Image.fromarray(gradient(tw, th, fill, vertical_grad))
+    out = Image.new("RGBA", (tw, th), (0, 0, 0, 0))
+    if glow:
+        g = Image.new("RGBA", (tw, th), glow); gm = mask.filter(ImageFilter.GaussianBlur(size * 0.12))
+        g.putalpha(gm.point(lambda v: min(255, int(v * 1.6)))); out = Image.alpha_composite(out, g)
+    c = col.convert("RGBA"); c.putalpha(mask); return Image.alpha_composite(out, c)
 
 def to_np(img):  # PIL RGBA -> float32 (h,w,4) premultiplicado
     a = np.asarray(img.convert("RGBA")).astype(np.float32) / 255

@@ -17,7 +17,7 @@ if lut != "none":
 # cobre um quadro de trabalho 1296x2304 (9:16 com 20% de folga p/ zoom)
 vf.append("scale='if(gt(a,1296/2304),-2,1296)':'if(gt(a,1296/2304),2304,-2)':flags=lanczos")
 vf.append("format=yuv420p")
-cmd = ["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-rw_timeout", "60000000",
+cmd = ["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-rw_timeout", "240000000",
        "-ss", f"{tin - pre:.3f}", "-i", url, "-t", f"{dur + pre + 1.0:.3f}",
        "-map", "0:v:0", "-map", "0:a:0?", "-vf", ",".join(vf),
        "-c:v", "libx264", "-crf", "14", "-preset", "fast", "-c:a", "aac", "-b:a", "192k", out]

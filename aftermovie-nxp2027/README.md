@@ -31,15 +31,22 @@ Feito com os brutos do Drive (NXP 2024, 2025 e Pixel 2026), a ID visual do Canva
    - grão e vinheta roxa.
 7. **Áudio.** `mix_audio` junta trilha, 92 SFX posicionados na timeline e som direto da plateia, e normaliza para −14 LUFS / −1 dBTP, o padrão do Instagram.
 
-Para regenerar: `python3 tools/edl_v1.py` (60 s) e `python3 tools/edl_30s.py` (30 s), com `--preview` para meia resolução. Renderizar 60 s leva cerca de 35 min em 4 núcleos.
+Para regenerar: `python3 tools/edl_v2.py` (60 s) e `python3 tools/edl_30s_v2.py` (30 s); v1 em `edl_v1.py`/`edl_30s.py`, com `--preview` para meia resolução. Renderizar 60 s leva cerca de 35 min em 4 núcleos.
 
 ## Entregas (fora do git: `entrega/*.mp4` está no .gitignore)
 
 | Arquivo | Uso |
 |---|---|
-| `NXP2027_aftermovie_60s_master.mp4` | master 1080×1920, ~14 Mbps, −13,7 LUFS: subir no Reels |
-| `NXP2027_aftermovie_60s.mp4` | 27 MB (2 passes, 3,5 Mbps): envio/WhatsApp/aprovação |
-| `NXP2027_aftermovie_30s_master.mp4` / `_30s.mp4` | corte de anúncio: master e versão de 25 MB |
+| `NXP2027_aftermovie_60s_v2_master.mp4` | master 1080×1920, ~14 Mbps, −13,7 LUFS: subir no Reels |
+| `NXP2027_aftermovie_60s_v2.mp4` | 27 MB (2 passes, 3,5 Mbps): envio/WhatsApp/aprovação |
+| `NXP2027_aftermovie_30s_v2_master.mp4` / `_30s_v2.mp4` (v1 em `entrega/v1/`) | corte de anúncio: master e versão de 25 MB |
+
+## v2: ajustes do cliente
+- Títulos na fonte real do KV (Genius Techno) e **NEXOS** com O.
+- **Drone do Expominas:** existe um slot pronto (`--drone arquivo.mp4`). Não havia voo sobre o Expominas no Drive, e não foi possível baixar do YouTube (bloqueio de download a partir da nuvem). Referências encontradas: BHDrone `4MgBZ_21qS0`, flydrones `kdCzk5Woo18`, Salim Drone `nfuuUJG17_8`. Só usar com licença do autor, ou pedir o institucional aéreo ao Expominas (@expominasbh), ou gravar com o drone da equipe. Enquanto isso, o slot usa um voo sobre BH, sem o Minas Shopping.
+- **Depois do drone:** bloco novo de palco cheio, atração no palco (Muca, Sofia Espanha), ativações com gente brincando (jogo de ritmo, dança neon, arcade, Fanta) e cortes de 1–2 beats. A trilha foi reeditada para a batida seguir contínua (sem o silêncio de 9–12 s): `hitman_EDIT_60s_v2.wav` = original 0–5,4 | 12,0–27,2 | 120,7–127,9 | 42,8–75,2, com emendas nos beats. O drop está em 37,02 s.
+- **Clímax:** sai a Cineart e entram atrações no palco.
+- **Visual premium:** saem os planos de ginásio (Pixel 2026 em quadra escolar), teto e chão. Todo plano tem foco de enquadramento (`focus=`) para cortar teto, chão e fundo bagunçado. Planos que só existem em 360p no Drive ficaram de fora.
 
 ## Pendências antes de subir como anúncio
 
@@ -47,7 +54,7 @@ Para regenerar: `python3 tools/edl_v1.py` (60 s) e `python3 tools/edl_30s.py` (3
   - "+10 MIL NERDS EM 2025" (fonte: imprensa, ~10 mil na 12ª edição);
   - "NXP 2025 · 12ª EDIÇÃO";
   - "FEH DUBS · ANDERSON GAVETA JÁ CONFIRMADOS" (fonte: carrossel do Canva).
-- [ ] **Fontes:** no vídeo, a Genius Techno do KV foi substituída pela Righteous (livre). A Genius Techno é demo "personal use"; para usar a original é preciso licença comercial. A Lexend Deca é a oficial.
+- [x] **Fontes (v2):** os títulos estão na **Genius Techno real**. Foram exportados do próprio Canva (cópia de trabalho "AFTERMOVIE NXP 2027 · textos na fonte do KV"), onde a fonte já é licenciada, como PNG transparente. As máscaras estão em `kvtext/` e o degradê e o glow do KV são aplicados no vídeo. O corpo pequeno usa Lexend Deca, a fonte oficial do KV.
 - [ ] **Resolução:** o material vem do stream 1080p do Drive, e o crop 9:16 de plano horizontal amplia ~1,8×. Para a versão final, rodar de novo `fetch.py` nos originais 4K quando a cota do Drive liberar, ou baixar pelo Drive com login. Nenhuma edição muda, só a fonte.
 - [ ] **Crédito da trilha na legenda do post:** "Hitman" – Kevin MacLeod (incompetech.com), licença CC BY 4.0. Ver `LICENCAS.md`.
 - [ ] **Autorização de imagem:** os cosplayers e o público em close aparecem em material do próprio NXP; conferir o termo de uso de imagem do credenciamento.

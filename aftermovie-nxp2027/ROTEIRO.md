@@ -1,3 +1,103 @@
+# Roteiro / EDL v2: Aftermovie NXP 2027 · 60 s (9:16)
+
+**Trilha:** "Hitman" (Kevin MacLeod, CC BY 4.0), edição v2 com emendas nos beats: original 0–5,4 | 12,0–27,2 | 120,7–127,9 | 42,8–75,2. A batida é contínua de 5,4 a 27,7 s e o **drop cai em 37,02 s**.
+**Tipografia:** Genius Techno (fonte do KV, exportada do Canva) + Lexend Deca.
+
+| Tempo | Bloco | Imagem | Grafismo / VFX | Som |
+|---|---|---|---|---|
+| 0,00–2,95 | **A · HOOK** | Elmo do Guts → olhos vermelhos → Motoqueiro Fantasma | HUD "ALERTA: PORTAL INSTÁVEL", glitch, flash | sub drop, glitch, impacto |
+| 2,95–5,41 | **B · PORTAL** | Roxo do KV + portal girando | "OS PORTAIS ESTÃO ABRINDO / DE NOVO." | energia de portal, riser, sucção |
+| 5,41–8,68 | **C · EXPOMINAS** | Drone do Expominas (slot; provisório: voo sobre BH) | "AGORA NO EXPOMINAS" / "O MAIOR CENTRO DE EVENTOS DE MINAS" | impacto grave |
+| 8,68–15,28 | **D · PALCO · ATRAÇÃO · ATIVAÇÃO** | Plateia lotada, Muca e fãs na grade, Sofia Espanha no palco, cosplayers dançando, jogo de ritmo 3-2-1, arcade, Fanta, Muca com convidada no palco. Cortes de 1–2 beats | +10 MIL NERDS → PALCO → ATRAÇÕES → ATIVAÇÕES | trilha contínua, whoosh por corte, impacto por palavra |
+| 15,28–27,70 | **E · OS 4 MUNDOS** (8 beats cada) | LÓTUS · NEXOS · ELDARION · PIXEL | título em slam + subtítulo + "MUNDO n/4", light leak | impacto por mundo |
+| 27,70–33,50 | **F · EMOÇÃO** (slow-motion) | Menina gargalhando, plateia, palco do Muca | "AQUI, TODO FÃ / ENCONTRA SEU LUGAR" | breakdown |
+| 33,50–37,02 | **F · CASCATA** | 16 retratos, olhos alinhados por detecção de rosto | "QUAL É O SEU PERSONAGEM?" | riser + obturador |
+| 37,02–52,50 | **G · CLÍMAX** | Concurso cosplay, Muca e Sofia no palco, plateia, Cammy e Chun-Li, One Piece, patinho → silhueta no palco | COSPLAY / PALCOS / GAMES / DUBLAGEM / EXPERIÊNCIAS | 808, boom, gritos |
+| 52,50–60,00 | **H · CTA** | Plateia em slow-motion sob o portal | NERD XP → "de ~~Minas~~ DA GALÁXIA" → além do portal · 27 e 28 · fev de 2027 · no Expominas · Feh Dubs · Anderson Gaveta · COMENTA INGRESSO | marcador, impacto, UI |
+
+**Critério visual (premium):** todo plano usa foco de enquadramento para cortar teto, chão e fundo bagunçado. Não entram planos de ginásio/quadra, de 360p ou de estande desorganizado.
+
+## Lista de planos v2 (fonte no Drive)
+| t | d | código | pasta · arquivo | in |
+|---|---|---|---|---|
+| 0.00 | 1.30 | 2025log-0214 | 2025_log · 21/09/2025/VIDEO/COSPLAYERS/C9924.MP4 | 0.0 |
+| 1.30 | 0.81 | 2025log-0215 | 2025_log · 21/09/2025/VIDEO/COSPLAYERS/C9925.MP4 | 5.0 |
+| 2.11 | 0.84 | 2026pix-0542 | 2026_pixel · VIDEOS JADE/C3717.MP4 | 1.0 |
+| 5.41 | 3.27 | 2025log-0594 | 2025_log · Drone Leo/DJI_20250921133647_0002_D.MP4 | 4.0 |
+| 8.68 | 0.42 | 2025log-0449 | 2025_log · 21/09/2025/VIDEO/PALCO/MUCA/C0156.MP4 | 0.5 |
+| 9.10 | 0.84 | 2025log-0484 | 2025_log · 21/09/2025/VIDEO/PALCO/MUCA/C9959.MP4 | 0.5 |
+| 9.94 | 0.42 | 2025log-0496 | 2025_log · 21/09/2025/VIDEO/PALCO/SOFIA ESPANHA/C0369.MP4 | 2.0 |
+| 10.36 | 0.81 | 2025log-0481 | 2025_log · 21/09/2025/VIDEO/PALCO/MUCA/C9956.MP4 | 2.0 |
+| 11.17 | 0.42 | 2025log-0574 | 2025_log · 21/09/2025/VIDEO/STANDS/C9901.MP4 | 1.0 |
+| 11.59 | 0.40 | 2024bru-0135 | 2024_brutos_hd · CARTAO DE MEMORIA/private/M4ROOT/CLIP/dia 2 15 hrs/C0416.MP4 | 2.0 |
+| 11.98 | 0.42 | 2025log-0501 | 2025_log · 21/09/2025/VIDEO/PALCO/SOFIA ESPANHA/C9928.MP4 | 1.0 |
+| 12.40 | 0.42 | 2025log-0472 | 2025_log · 21/09/2025/VIDEO/PALCO/MUCA/C9947.MP4 | 1.0 |
+| 12.82 | 0.81 | 2025log-0577 | 2025_log · 21/09/2025/VIDEO/STANDS/C9904.MP4 | 3.0 |
+| 13.63 | 0.42 | 2025log-0123 | 2025_log · 20/09/2025/VIDEO/PATROCINADORES/FANTA/C9715.MP4 | 8.0 |
+| 14.05 | 0.42 | 2025log-0487 | 2025_log · 21/09/2025/VIDEO/PALCO/MUCA/C9963.MP4 | 1.0 |
+| 14.47 | 0.81 | 2025log-0446 | 2025_log · 21/09/2025/VIDEO/PALCO/MUCA/C0153.MP4 | 12.0 |
+| 15.28 | 0.81 | 2025log-0063 | 2025_log · 20/09/2025/VIDEO/EVENTO/GERAIS/C0167.MP4 | 2.5 |
+| 16.09 | 0.81 | 2025log-0226 | 2025_log · 21/09/2025/VIDEO/COSPLAYERS/C9981.MP4 | 0.5 |
+| 16.90 | 0.84 | 2024bru-0295 | 2024_brutos_hd · CARTAO DE MEMORIA/private/M4ROOT/CLIP/dia 2 22hrs/C0584.MP4 | 3.0 |
+| 17.74 | 0.81 | 2025log-0546 | 2025_log · 21/09/2025/VIDEO/PATROCINADORES/MADE IN KOREA/C0123.MP4 | 1.0 |
+| 18.55 | 0.84 | 2025log-0383 | 2025_log · 21/09/2025/VIDEO/PALCO/CONCURSO COSPLAY/C0049.MP4 | 2.5 |
+| 19.39 | 0.81 | 2025log-0211 | 2025_log · 21/09/2025/VIDEO/COSPLAYERS/C9921.MP4 | 3.0 |
+| 20.20 | 0.74 | 2025log-0260 | 2025_log · 21/09/2025/VIDEO/GERAIS/C0343.MP4 | 34.5 |
+| 20.94 | 0.77 | 2025log-0019 | 2025_log · 20/09/2025/VIDEO/COSPLAYERS/C9839.MP4 | 4.0 |
+| 21.71 | 0.74 | 2025log-0535 | 2025_log · 21/09/2025/VIDEO/PATROCINADORES/EXCALIBUR/C0095.MP4 | 0.3 |
+| 22.45 | 0.74 | 2026pix-0543 | 2026_pixel · VIDEOS JADE/C3718.MP4 | 0.5 |
+| 23.20 | 0.74 | 2025log-0100 | 2025_log · 20/09/2025/VIDEO/PATROCINADORES/BOARD GAME BH/C9700.MP4 | 1.0 |
+| 23.94 | 0.77 | 2025log-0535 | 2025_log · 21/09/2025/VIDEO/PATROCINADORES/EXCALIBUR/C0095.MP4 | 12.0 |
+| 24.71 | 0.77 | 2026pix-0062 | 2026_pixel · CELULAR LEO/IMG_7668.MOV | 0.5 |
+| 25.47 | 0.72 | 2025log-0578 | 2025_log · 21/09/2025/VIDEO/STANDS/C9906.MP4 | 5.0 |
+| 26.19 | 0.77 | 2024bru-0070 | 2024_brutos_hd · CARTAO DE MEMORIA/private/M4ROOT/CLIP/17.oo/C0340.MP4 | 0.5 |
+| 26.96 | 0.74 | 2026pix-0098 | 2026_pixel · CELULAR LEO/IMG_7712.MOV | 0.5 |
+| 27.70 | 1.95 | 2025log-0489 | 2025_log · 21/09/2025/VIDEO/PALCO/MUCA/C9965.MP4 | 0.5 |
+| 29.65 | 1.90 | 2025log-0427 | 2025_log · 21/09/2025/VIDEO/PALCO/CONCURSO COSPLAY/C0416.MP4 | 3.0 |
+| 31.55 | 1.95 | 2025log-0448 | 2025_log · 21/09/2025/VIDEO/PALCO/MUCA/C0155.MP4 | 1.0 |
+| 33.50 | 0.37 | 2025log-0216 | 2025_log · 21/09/2025/VIDEO/COSPLAYERS/C9971.MP4 | 0.3 |
+| 33.87 | 0.35 | 2025log-0213 | 2025_log · 21/09/2025/VIDEO/COSPLAYERS/C9923.MP4 | 1.0 |
+| 34.23 | 0.33 | 2025log-0221 | 2025_log · 21/09/2025/VIDEO/COSPLAYERS/C9976.MP4 | 1.0 |
+| 34.56 | 0.31 | 2025log-0218 | 2025_log · 21/09/2025/VIDEO/COSPLAYERS/C9973.MP4 | 0.8 |
+| 34.87 | 0.29 | 2025log-0225 | 2025_log · 21/09/2025/VIDEO/COSPLAYERS/C9980.MP4 | 1.0 |
+| 35.16 | 0.27 | 2025log-0019 | 2025_log · 20/09/2025/VIDEO/COSPLAYERS/C9839.MP4 | 8.0 |
+| 35.43 | 0.25 | 2025log-0016 | 2025_log · 20/09/2025/VIDEO/COSPLAYERS/C9836.MP4 | 0.5 |
+| 35.68 | 0.23 | 2025log-0222 | 2025_log · 21/09/2025/VIDEO/COSPLAYERS/C9977.MP4 | 0.5 |
+| 35.91 | 0.21 | 2025log-0217 | 2025_log · 21/09/2025/VIDEO/COSPLAYERS/C9972.MP4 | 1.0 |
+| 36.12 | 0.19 | 2025log-0020 | 2025_log · 20/09/2025/VIDEO/COSPLAYERS/C9840.MP4 | 1.5 |
+| 36.31 | 0.17 | 2025log-0226 | 2025_log · 21/09/2025/VIDEO/COSPLAYERS/C9981.MP4 | 2.0 |
+| 36.48 | 0.15 | 2025gav-0024 | 2025_gaveta · 2025_gaveta/IMG_0809.MOV | 1.3 |
+| 36.63 | 0.13 | 2024bru-0123 | 2024_brutos_hd · CARTAO DE MEMORIA/private/M4ROOT/CLIP/dia 2 15 hrs/C0404.MP4 | 0.3 |
+| 36.76 | 0.11 | 2025log-0212 | 2025_log · 21/09/2025/VIDEO/COSPLAYERS/C9922.MP4 | 0.2 |
+| 36.87 | 0.09 | 2025log-0018 | 2025_log · 20/09/2025/VIDEO/COSPLAYERS/C9838.MP4 | 0.2 |
+| 36.95 | 0.07 | 2025log-0214 | 2025_log · 21/09/2025/VIDEO/COSPLAYERS/C9924.MP4 | 0.5 |
+| 37.02 | 0.67 | 2024bru-0471 | 2024_brutos_hd · HD/nerdxp D2/MVI_9293.MP4 | 4.7 |
+| 37.69 | 0.81 | 2025log-0415 | 2025_log · 21/09/2025/VIDEO/PALCO/CONCURSO COSPLAY/C0404.MP4 | 3.3 |
+| 38.50 | 0.40 | 2026pix-0139 | 2026_pixel · CELULAR LEO/IMG_7765.MOV | 0.3 |
+| 38.89 | 0.81 | 2025log-0471 | 2025_log · 21/09/2025/VIDEO/PALCO/MUCA/C9946.MP4 | 0.3 |
+| 39.71 | 0.79 | 2025log-0484 | 2025_log · 21/09/2025/VIDEO/PALCO/MUCA/C9959.MP4 | 1.5 |
+| 40.50 | 0.79 | 2025log-0438 | 2025_log · 21/09/2025/VIDEO/PALCO/CONCURSO COSPLAY/C0427.MP4 | 1.0 |
+| 41.28 | 0.81 | 2024bru-0452 | 2024_brutos_hd · HD/nerdxp D2/MVI_2751.MP4 | 9.7 |
+| 42.10 | 0.79 | 2025log-0501 | 2025_log · 21/09/2025/VIDEO/PALCO/SOFIA ESPANHA/C9928.MP4 | 3.0 |
+| 42.89 | 0.40 | 2024bru-0240 | 2024_brutos_hd · CARTAO DE MEMORIA/private/M4ROOT/CLIP/dia 2 22hrs/C0527.MP4 | 4.0 |
+| 43.28 | 0.81 | 2025log-0454 | 2025_log · 21/09/2025/VIDEO/PALCO/MUCA/C0161.MP4 | 3.0 |
+| 44.09 | 0.40 | 2025log-0202 | 2025_log · 21/09/2025/VIDEO/COSPLAYERS/C0340.MP4 | 5.0 |
+| 44.49 | 0.81 | 2025log-0481 | 2025_log · 21/09/2025/VIDEO/PALCO/MUCA/C9956.MP4 | 9.0 |
+| 45.30 | 0.79 | 2025log-0415 | 2025_log · 21/09/2025/VIDEO/PALCO/CONCURSO COSPLAY/C0404.MP4 | 20.1 |
+| 46.09 | 0.79 | 2024bru-0444 | 2024_brutos_hd · HD/nerdxp D2/MVI_2743.MP4 | 12.0 |
+| 46.88 | 0.81 | 2025log-0496 | 2025_log · 21/09/2025/VIDEO/PALCO/SOFIA ESPANHA/C0369.MP4 | 6.0 |
+| 47.69 | 0.40 | 2025log-0213 | 2025_log · 21/09/2025/VIDEO/COSPLAYERS/C9923.MP4 | 12.0 |
+| 48.09 | 0.40 | 2025log-0357 | 2025_log · 21/09/2025/VIDEO/PALCO/CONCURSO COSPLAY/C0023.MP4 | 1.0 |
+| 48.48 | 0.81 | 2025log-0020 | 2025_log · 20/09/2025/VIDEO/COSPLAYERS/C9840.MP4 | 7.0 |
+| 49.30 | 0.81 | 2024bru-0328 | 2024_brutos_hd · CARTAO DE MEMORIA/private/M4ROOT/CLIP/dia 2 22hrs/C0617.MP4 | 9.0 |
+| 50.11 | 0.79 | 2025gav-0280 | 2025_gaveta · VIRAIS/AVULSOS/IMG_1964.MOV | 0.0 |
+| 50.90 | 1.60 | 2024bru-0471 | 2024_brutos_hd · HD/nerdxp D2/MVI_9293.MP4 | 91.8 |
+| 52.50 | 7.50 | 2025log-0449 | 2025_log · 21/09/2025/VIDEO/PALCO/MUCA/C0156.MP4 | 1.0 |
+
+---
+
+<details><summary>v1 (histórico)</summary>
+
 # Roteiro / EDL: Aftermovie NXP 2027 · 60 s (9:16)
 
 **Trilha:** "Hitman" (Kevin MacLeod, CC BY 4.0), edição de 60 s com emenda (0–25,9 s + 40,0–74,9 s do original).
@@ -99,3 +199,5 @@ Mesma linguagem, com a edição de 30 s da trilha (drop em 18,41 s):
 | 50.27 | 0.79 | 2025gav-0280 | 2025_gaveta · VIRAIS/AVULSOS/IMG_1964.MOV | 0.0 |
 | 51.06 | 1.24 | 2024bru-0471 | 2024_brutos_hd · HD/nerdxp D2/MVI_9293.MP4 | 91.8 |
 | 52.30 | 7.70 | 2025log-0594 | 2025_log · Drone Leo/DJI_20250921133647_0002_D.MP4 | 184.6 |
+
+</details>
