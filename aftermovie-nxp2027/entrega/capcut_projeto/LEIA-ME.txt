@@ -1,0 +1,20 @@
+PROJETO CAPCUT · AFTERMOVIE NXP 2027 (60 s, 9:16, 1080x1920, 30 fps)
+
+1) MÍDIA — extraia TODOS os zips "NXP2027_capcut_*" para a MESMA pasta, de modo que fique:
+   Windows:  C:\NXP2027_capcut\video  \audio  \textos
+   Mac:      /Users/Shared/NXP2027_capcut/video  /audio  /textos
+   (no Mac: Finder > Ir > Ir para a pasta… > /Users/Shared)
+
+2) PROJETO — feche o CapCut. Copie a pasta "NXP2027_Aftermovie" (de projeto/win ou projeto/mac) para a pasta de rascunhos do CapCut:
+   Windows:  C:\Users\<seu usuário>\AppData\Local\CapCut\User Data\Projects\com.lveditor.draft
+   Mac:      ~/Movies/CapCut/User Data/Projects/com.lveditor.draft
+   (se não achar: CapCut > Configurações > "Local dos rascunhos" mostra a pasta certa)
+
+3) Abra o CapCut: o projeto "NXP2027_Aftermovie" aparece na lista. Se algum arquivo vier como "mídia ausente", clique em Revincular e aponte para a pasta NXP2027_capcut.
+
+TIMELINE
+- PLANOS: 59 planos já com cor, crop, zoom, velocidade, HUD, portal, flashes e glitches.
+- TEXTO_1..10: títulos, logo, datas e CTA em PNG tela cheia (fonte do KV). Mova, troque, apague ou mude a animação à vontade.
+- TRILHA: "Hitman" (Kevin MacLeod, CC BY 4.0 — crédito obrigatório na legenda).
+- SFX: todos os efeitos sonoros já no tempo.
+Exporte em 1080p 30 fps.
