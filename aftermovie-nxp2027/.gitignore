@@ -4,3 +4,4 @@ out/
 *.wav
 models/
 __pycache__/
+*.zip
