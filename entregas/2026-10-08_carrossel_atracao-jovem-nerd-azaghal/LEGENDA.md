@@ -7,14 +7,15 @@
 | Modelo | Template "Atração confirmada", pág. 202 do mestre `DAHF08WuL5g` |
 | Canva | Temporário editável `DAHXbnFMeGM` — [abrir](https://www.canva.com/d/bRrtgoXC4WXqsSp). Entra no vol. 3 (`DAHWoX0Q66o`) depois de trocar as fotos |
 | Publicação | [A CONFIRMAR] (sugestão: 12h ou 19h) |
-| Status | **Rascunho**: faltam as fotos oficiais e o dia da participação |
+| Fotos | Foto de estúdio da dupla enviada pela equipe (678×452). Capa: recorte sem fundo (`MAHXbw28GKU`) sobre o portal neon. Slide 2: foto original no blob (`MAHXb3VSEtQ`). Crédito do fotógrafo [A CONFIRMAR] |
+| Status | **Arte completa**. Falta só confirmar o dia da participação e os @ da collab |
 
 ## Texto da arte
 
 **Slide 1 — capa**
 ```
-[topo]   NERD:XP · além do portal · 27 e 28 / FEV DE 2027 / expominas
-[foto]   foto oficial da dupla (moldura do portal; hoje é o placeholder da paisagem)
+[topo]   NERD:XP · além do portal · 27 e 28 (verde) / FEV DE 2027 / expominas
+[foto]   recorte da dupla na frente do portal neon, fundo berinjela #291833
          JOVEM NERD               ← branco
          [e AZAGHAL]              ← ciano #11FAFE (destaque)
          (ATRAÇÕES CONFIRMADAS)   ← pill ciano
@@ -28,7 +29,7 @@ Alexandre Ottoni (Jovem Nerd) e Deive Pazos (Azaghal) criaram o Jovem Nerd
 em 2002 e o NerdCast em 2006, um dos podcasts mais ouvidos do Brasil. Há mais
 de 20 anos a dupla acompanha gerações de nerds. Agora, eles atravessam o
 portal do NXP 2027.
-[blob com foto]  foto individual ou em ação (placeholder da paisagem)
+[blob com foto]  foto de estúdio da dupla, os dois enquadrados
 ```
 
 **Slide 3 — assinatura + CTA**
@@ -56,7 +57,7 @@ gerações de nerds, chegam ao NerdVerso no maior evento nerd da galáxia.
 
 - **Primeiro comentário**: "Qual é o seu NerdCast favorito de todos os tempos? Conta aqui 👇"
 - **Collab / marcações**: @jovemnerd + perfis pessoais dos dois [A CONFIRMAR @]
-- **Alt text**: "Carrossel do Nerd Experience 2027. Slide 1: foto de Jovem Nerd e Azaghal com o título 'Jovem Nerd e Azaghal — atrações confirmadas'. Slide 2: 'Os criadores do NerdCast' e uma breve biografia da dupla. Slide 3: logo do NXP, selo 'além do portal', datas 27 e 28 de fevereiro de 2027 no Expominas e 'ingressos disponíveis, link na bio'."
+- **Alt text**: "Carrossel do Nerd Experience 2027. Slide 1: Jovem Nerd e Azaghal sorrindo na frente de um portal neon, Azaghal com o punho erguido e Jovem Nerd fazendo a saudação vulcana, com o título 'Jovem Nerd e Azaghal — atrações confirmadas'. Slide 2: 'Os criadores do NerdCast' e uma breve biografia da dupla. Slide 3: logo do NXP, selo 'além do portal', datas 27 e 28 de fevereiro de 2027 no Expominas e 'ingressos disponíveis, link na bio'."
 
 ## Desdobramentos
 
@@ -65,9 +66,9 @@ gerações de nerds, chegam ao NerdVerso no maior evento nerd da galáxia.
 
 ## QA
 
-- ❌ **Fotos**: as molduras do slide 1 e do blob do slide 2 ainda estão com a paisagem do template. Trocar pelas fotos oficiais (press kit da dupla). Bloqueia a publicação.
+- ✅ **Fotos** aplicadas nos dois slides. Atenção: a foto enviada tem 678×452 e foi ampliada na capa, então pode ficar um pouco suave no zoom. Se houver versão em alta, é só trocar o fill no Canva.
 - ❌ **Dia da participação**: 27/02, 28/02 ou os dois? Quando confirmar, dá pra trocar o "27 e 28" do topo do slide 1 por uma pill com o dia, como no post do Érico Borgo.
 - ❌ **@ da collab**: conferir os perfis oficiais antes de marcar.
 - ✅ Data, local, grafia (NerdVerso, Nerd Experience, NerdCast), CTA único, ≤ 2 cores de destaque, texto da capa ≤ 25 palavras, ponto de entrada único (nome da dupla).
 
-**Pendências**: fotos oficiais, dia da participação, @ da collab, data/horário de publicação.
+**Pendências**: dia da participação, @ da collab, data/horário de publicação.
