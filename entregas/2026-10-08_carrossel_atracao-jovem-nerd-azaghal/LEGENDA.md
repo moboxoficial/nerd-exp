@@ -67,6 +67,8 @@ gerações de nerds, chegam ao NerdVerso no maior evento nerd da galáxia.
 ## QA
 
 - ✅ **Fotos** aplicadas nos dois slides. Atenção: a foto enviada tem 678×452 e foi ampliada na capa, então pode ficar um pouco suave no zoom. Se houver versão em alta, é só trocar o fill no Canva.
+- ✅ **Ajustes da equipe (08/10)**: dupla ampliada, topo em linha única, contorno no título, emenda da faixa escura corrigida. Os PNGs desta pasta já são a versão da equipe.
+- ⚠️ **Divisa 1→2**: a manga amarela do Jovem Nerd passa ~80 px para o slide 2 (ver `.qa/divisa-1.png`). Recolher para dentro dos 1080 px ou assumir a continuidade.
 - ❌ **Dia da participação**: 27/02, 28/02 ou os dois? Quando confirmar, dá pra trocar o "27 e 28" do topo do slide 1 por uma pill com o dia, como no post do Érico Borgo.
 - ❌ **@ da collab**: conferir os perfis oficiais antes de marcar.
 - ✅ Data, local, grafia (NerdVerso, Nerd Experience, NerdCast), CTA único, ≤ 2 cores de destaque, texto da capa ≤ 25 palavras, ponto de entrada único (nome da dupla).
