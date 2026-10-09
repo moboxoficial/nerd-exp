@@ -40,6 +40,14 @@ Tom da marca (ver `references/identidade.md`): direto, frases curtas, 1 emoji po
 - Lista curta de pendências (ex.: atualizar o formulário da bio, salário/modalidade não definidos).
 - Carrossel montado como página única larga (5400×1350 = 5 slides de 1080×1350): avise que precisa fatiar em 5 imagens ou ofereça exportar já separado.
 
+## Formulário de candidatura (posts de vaga)
+
+O CTA de vaga aponta para um formulário no link da bio. O conector do Drive não cria Google Forms, então entregue um Apps Script que monta o formulário e a planilha de respostas. Parta de `references/formulario-vaga-modelo.gs` e troque o texto da vaga, as ferramentas e as perguntas técnicas. Regras:
+- Peça **link** de currículo/projeto, não upload: upload obriga o candidato a logar no Google e derruba as candidaturas.
+- Em vaga técnica, a pergunta-chave é o link de um projeto real + "conta a história" + "quando travou, como destravou".
+- Inclua "Como ficou sabendo da vaga?" (com "Stories de alguém do time") e o consentimento LGPD.
+- Não pergunte o que a vaga ainda não definiu como se estivesse definido; peça "pretensão salarial".
+
 ## Passo 6 — Aprender com as alterações da equipe
 
 Quando o usuário editar a arte e pedir para você "ver o que mudou":
