@@ -38,7 +38,8 @@ Tom da marca (ver `references/identidade.md`): direto, frases curtas, 1 emoji po
 - Link do Canva + prévia.
 - Legenda pronta para colar.
 - Lista curta de pendências (ex.: atualizar o formulário da bio, salário/modalidade não definidos).
-- Carrossel montado como página única larga (5400×1350 = 5 slides de 1080×1350): avise que precisa fatiar em 5 imagens ou ofereça exportar já separado.
+- Carrossel montado como página única larga (5400×1350 = 5 slides de 1080×1350): **sempre entregue já fatiado**. Exporte PNG em 5400×1350 (`export_quality: pro`), corte com PIL em 5 faixas de 1080 px e salve `slide-1.jpg`…`slide-5.jpg` (JPG qualidade 95), na ordem de postagem. A equipe não sabe fatiar no Canva.
+- Antes de exportar, releia os slides exportados em tamanho real e confira consistência de título entre slides.
 
 ## Formulário de candidatura (posts de vaga)
 
