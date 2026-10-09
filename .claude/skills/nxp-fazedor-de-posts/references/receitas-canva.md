@@ -11,7 +11,23 @@ Complementam `12-canva-workflow.md` da skill `nxp-especialista`. Quando uma rece
 3. **Busca na web (último recurso)**: o sandbox e o Canva recebem 429 do Wikimedia (`upload.wikimedia.org` e a API). As versões no Flickr (`live.staticflickr.com/..._o.jpg`, vindas do campo "Source" da página do Commons) baixam normalmente. Sempre confira a licença (CC BY / CC BY-SA) e anote o crédito. Prefira pedir a foto oficial à equipe.
 4. Resolução: abaixo de ~1000 px de largura a foto fica suave na capa. Registre na ficha e peça a versão em alta.
 
-## Template "Atração confirmada" — pág. 202 do mestre (carrossel 3240×1350)
+## Modelo padrão de atração — post do Gaveta, pág. 137 do mestre (carrossel 3240×1350)
+
+`copy-design` com `page_numbers: [137]`. Os slides 1 e 3 ficam como estão; troca-se só o card central (x 1042–2193):
+
+| Elemento | ID | O que fazer |
+|---|---|---|
+| Nome (2 linhas, berinjela) | `LBFgR3gBkGxRChyY` | `replace_text` "NOME\nSOBRENOME" + `format_text` 128 px / line_height 0.8 ("JOVEM NERD" cabe em 128) |
+| Pill roxa do topo | `LBKC5mc2rl6tw8Fq` (grupo `LBYyVZ8zZpdyrdgq`) | "ATRAÇÃO CONFIRMADA" (34 px) ou "ATRAÇÕES CONFIRMADAS" (30 px) |
+| Foto do Gaveta (2 camadas) | `LBPnNPCKgNrDD5wk` e `LBNglDshGsHcZf2s` (grupo `LBbJbV9Mh1j19CcQ`) | apagar as duas; o portal verde (`LBSG0tyv295YGPPx`) fica |
+| Recorte novo | — | `insert_fill` do recorte em left 1042, top ~560, largura 1150 (proporção da foto) |
+| Faixa escura do rodapé | — | `insert_shape` `#291833` em (1042.7, 1188), 1150.8×159, path com cantos de baixo arredondados: `M0 0H1150V119C1150 141 1132 159 1110 159H40C18 159 0 141 0 119Z` |
+| Data do card | grupo `LBFfkFqzgK1yBqc6` | `layer_element` front depois da faixa |
+| Selo roxo "O Mestre da Criação…" | `LBVgW7qQkPpv4G8m` (grupo `LB3jZWytHqPDwdbZ`) | frase curta do convidado (~40 caracteres), depois front |
+| Selo "ATRAÇÃO DO DIA 28" | grupo `LB5kzmR9KvHvsDK2` | trocar o dia ou apagar se ainda não houver dia confirmado |
+| Logo NERD:XP do card | `LB03ss4jlnQvxw0K` | sem a foto escura atrás ele some no fundo claro: apagar ou pôr sobre área escura |
+
+## Template genérico "Atração confirmada" — pág. 202 do mestre (carrossel 3240×1350)
 
 `copy-design` com `page_numbers: [202]`. Mapa dos elementos (os IDs se mantêm na cópia):
 

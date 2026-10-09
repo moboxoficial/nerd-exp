@@ -18,7 +18,7 @@ A equipe pede "faz o post" e recebe a **peça completa**: arte final com foto, e
 | Campo | Se não vier |
 |---|---|
 | Objetivo e mensagem-chave | deduza e declare a suposição |
-| Formato | anúncio de atração = carrossel de 3 slides (pág. 202); demais casos: feed 4:5 + story |
+| Formato | anúncio de atração = carrossel de 3 slides no **modelo do post do Gaveta (pág. 137 do mestre)**; demais casos: feed 4:5 + story. Se a equipe citar outro post ("no modelo do X"), use esse |
 | Fatos (dia, preço, cupom, @) | `[A CONFIRMAR]`, **nunca invente** |
 | **Fotos / ativos** | **peça já no briefing**: "manda a foto oficial em alta?" |
 | Data e horário de publicação | sugira 12h ou 19h |
