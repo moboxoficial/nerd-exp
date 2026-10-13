@@ -1,6 +1,6 @@
 # Conector MCP do Instagram — Nerd Experience / NerdVerso
 
-Servidor MCP que liga o Claude às contas **@nerdexperience** e **@nerdverso** pela API oficial do Instagram
+Servidor MCP que liga o Claude às contas **@nerdexperience** e **@nerdverso.nxp** pela API oficial do Instagram
 (Instagram API with Instagram Login). Com ele, a operação de social media pode publicar, agendar, cuidar
 da comunidade e puxar métricas conversando com o Claude.
 
@@ -55,7 +55,7 @@ As duas contas precisam ser **profissionais** (Empresa ou Criador de conteúdo).
 1. Em [developers.facebook.com](https://developers.facebook.com/apps), crie um app do tipo **Empresa** com o caso
    de uso **"Gerenciar mensagens e conteúdo no Instagram"**.
 2. Em **API do Instagram → Configuração da API com login do Instagram**:
-   - Em **Gerar tokens de acesso**, adicione `@nerdexperience` e `@nerdverso` (cada conta aceita o convite em
+   - Em **Gerar tokens de acesso**, adicione `@nerdexperience` e `@nerdverso.nxp` (cada conta aceita o convite em
      Configurações → Apps e sites → Convites de testador, no Instagram).
    - Clique em **Gerar token** em cada conta, faça login e copie o token (começa com `IGAA`).
 3. Permissões que o app precisa ter: `instagram_business_basic`, `instagram_business_content_publish`,
@@ -76,7 +76,7 @@ Variáveis de ambiente (veja `.env.example`):
 |---|---|
 | `MCP_ACCESS_KEY` | Senha do conector. Gere com `openssl rand -hex 24` |
 | `PUBLIC_BASE_URL` | Endereço https do servidor, ex: `https://instagram-mcp.nerdexperience.com.br` |
-| `IG_TOKENS` | `{"nerdexperience":"IGAA...","nerdverso":"IGAA..."}` |
+| `IG_TOKENS` | `{"nerdexperience":"IGAA...","nerdverso":"IGAA..."}` — a chave é só o apelido da conta usado nas conversas; o perfil real vem do token (`nerdverso` → @nerdverso.nxp) |
 | `DATA_DIR` | Pasta persistente (no Docker já é `/data`) |
 
 ```bash

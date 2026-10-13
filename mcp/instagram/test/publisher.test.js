@@ -66,7 +66,7 @@ test('imagem agendada só é publicada no horário', async () => {
   const job = publisher.create({
     conta: 'nerdexperience',
     formato: 'imagem',
-    payload: { midia: { url: 'https://x/a.png', corte: '4:5' }, legenda: 'Oi #nxp', colaboradores: ['nerdverso'] },
+    payload: { midia: { url: 'https://x/a.png', corte: '4:5' }, legenda: 'Oi #nxp', colaboradores: ['nerdverso.nxp'] },
     runAt: clock + 60 * MIN
   })
   await publisher.tick()
@@ -78,7 +78,7 @@ test('imagem agendada só é publicada no horário', async () => {
   assert.equal(preparing.status, 'preparando')
   const create = calls.find((c) => c[1] === '17841/media')
   assert.match(create[2].image_url, /^https:\/\/mcp\.exemplo\.com\/media\//)
-  assert.deepEqual(create[2].collaborators, ['nerdverso'])
+  assert.deepEqual(create[2].collaborators, ['nerdverso.nxp'])
   assert.equal(publishCalls().length, 0)
 
   clock += 1 * MIN

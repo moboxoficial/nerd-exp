@@ -23,7 +23,7 @@ before(async () => {
       const p = url.pathname.replace('/v25.0/', '')
       if (p === 'me') return json({ user_id: url.searchParams.get('access_token') === 'tok-nxp' ? '111' : '222', username: 'conta' })
       if (p === '111') return json({ username: 'nerdexperience', followers_count: 5000 })
-      if (p === '222') return json({ username: 'nerdverso', followers_count: 3000 })
+      if (p === '222') return json({ username: 'nerdverso.nxp', followers_count: 3000 })
       if (p === '111/media' && init.method === 'POST') return json({ id: 'cont1' })
       if (p === '111/media_publish') return json({ id: 'midia1' })
       if (p === 'cont1') return json({ status_code: 'FINISHED' })
@@ -74,7 +74,7 @@ test('lista ferramentas e contas pelo protocolo MCP', async () => {
   }
   const res = await client.callTool({ name: 'listar_contas', arguments: {} })
   const contas = JSON.parse(res.content[0].text)
-  assert.deepEqual(contas.map((c) => [c.conta, c.username]), [['nerdexperience', 'nerdexperience'], ['nerdverso', 'nerdverso']])
+  assert.deepEqual(contas.map((c) => [c.conta, c.username]), [['nerdexperience', 'nerdexperience'], ['nerdverso', 'nerdverso.nxp']])
   await client.close()
 })
 
