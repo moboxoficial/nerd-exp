@@ -64,6 +64,19 @@ As duas contas precisam ser **profissionais** (Empresa ou Criador de conteúdo).
 
 Como as contas têm papel no próprio app, não é preciso passar pela revisão da Meta.
 
+### Atalho: rodar no seu computador
+
+Para testar sem hospedar, com Node 20+ instalado:
+
+```bash
+cd mcp/instagram
+./scripts/rodar-local.sh
+```
+
+O script instala o que falta, pede os dois tokens (só na primeira vez), confere os tokens na Meta, abre um
+endereço público temporário com o `cloudflared`, liga o servidor e adiciona o conector `instagram-nxp` no Claude Code.
+Os agendamentos só saem enquanto a janela estiver aberta.
+
 ### 3. Hospedar o servidor
 
 Requisitos: **HTTPS público** (a Meta baixa as mídias daqui) e **disco persistente** (fila de agendamentos).
