@@ -102,10 +102,16 @@ echo "ok"
 # ---------- 6. Liga no Claude Code ----------
 if command -v claude >/dev/null; then
   passo "Conectando no Claude Code"
-  claude mcp remove instagram-nxp --scope user >/dev/null 2>&1 || true
-  claude mcp add --scope user --transport http instagram-nxp "http://localhost:$PORT/mcp" \
-    --header "Authorization: Bearer $MCP_ACCESS_KEY" >/dev/null
-  echo "Conector \"instagram-nxp\" adicionado."
+  # Escopo local: o conector só existe quando o Claude Code é aberto na pasta deste repositório,
+  # sem aparecer nos seus outros projetos.
+  REPO_ROOT="$(git rev-parse --show-toplevel 2>/dev/null || (cd ../.. && pwd))"
+  (
+    cd "$REPO_ROOT"
+    claude mcp remove instagram-nxp --scope local >/dev/null 2>&1 || true
+    claude mcp add --scope local --transport http instagram-nxp "http://localhost:$PORT/mcp" \
+      --header "Authorization: Bearer $MCP_ACCESS_KEY" >/dev/null
+  )
+  echo "Conector \"instagram-nxp\" adicionado só para o projeto em $REPO_ROOT."
 else
   echo
   echo "Claude Code não encontrado. Para conectar manualmente:"
@@ -113,7 +119,7 @@ else
   echo "  Header Authorization: Bearer <MCP_ACCESS_KEY do .env>"
 fi
 
-printf '\n\033[1;32m✔ Tudo no ar.\033[0m Abra outro terminal, rode "claude" e peça: "lista as contas do Instagram".\n'
+printf '\n\033[1;32m✔ Tudo no ar.\033[0m Abra outro terminal NA PASTA DO REPOSITÓRIO, rode "claude" e peça: "lista as contas do Instagram".\n'
 echo "Deixe esta janela aberta: os agendamentos só saem enquanto ela estiver rodando. Ctrl+C desliga."
 echo "Logs: $LOGS"
 wait

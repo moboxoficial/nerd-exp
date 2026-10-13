@@ -74,7 +74,7 @@ cd mcp/instagram
 ```
 
 O script instala o que falta, pede os dois tokens (só na primeira vez), confere os tokens na Meta, abre um
-endereço público temporário com o `cloudflared`, liga o servidor e adiciona o conector `instagram-nxp` no Claude Code.
+endereço público temporário com o `cloudflared`, liga o servidor e adiciona o conector `instagram-nxp` no Claude Code **só para este repositório** (escopo local: ele não aparece nos seus outros projetos).
 Os agendamentos só saem enquanto a janela estiver aberta.
 
 ### 3. Hospedar o servidor
