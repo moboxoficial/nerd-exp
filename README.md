@@ -20,3 +20,8 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+
+## Conector MCP do Instagram
+
+O servidor MCP que liga o Claude ao @nerdexperience e ao @nerdverso (publicação, agendamento, comentários, DMs
+e métricas) fica em [`mcp/instagram`](mcp/instagram/README.md).
